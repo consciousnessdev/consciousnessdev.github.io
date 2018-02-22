@@ -1,1 +1,69 @@
-/* Mobile First Orientation */
+/* BEM Mobile First Orientation */
+/* Reference iPhone 6 dimension */
+
+/* Load Up Fonts */
+
+@font-face {
+    font-family: helveticaSTD;
+    src: url('../fonts/HelveticaLTStd-Roman.otf');
+    src: url('../fonts/HelveticaLTStd-Roman.otf') format('opentype');
+}
+
+@font-face {
+    font-family: helveticaBLD;
+    src: url('../fonts/HelveticaLTStd-Bold.otf');
+    src: url('../fonts/HelveticaLTStd-Bold.otf') format('opentype');
+}
+
+/* Block Part */
+.header {
+
+    }
+    .header-section {
+
+    }
+    #header-section__background {
+
+    }
+.content {
+    
+    }
+    .content-section {
+
+    }
+.footer {
+
+    }
+    .footer-section {
+
+    }
+
+/* Element Part */
+    .header__logo {
+
+    }
+    .header__label {
+        
+    }
+
+    .header__button {
+
+    }
+
+    .header__learnmore {
+        
+    }
+
+/* Modifier Part */
+
+
+/* Media Query for Desktop (Screen > 960px) */
+
+
+/* Block Part */
+
+
+/* Element Part */
+
+
+/* Modifier Part */
