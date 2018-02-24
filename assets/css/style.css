@@ -55,7 +55,9 @@
 
 /* Element Part */
 
-.header__logo {}
+.header__logo {
+  
+}
 
 .header__label {}
 
@@ -140,6 +142,15 @@
     .smlist__item {}
 
 /* Modifier Part */
+.background--full {
+  width: 100%;
+  height: auto;
+  /* z-index */
+}
+
+.background--tint {
+  /* tint processing */
+}
 
 .label--bold,.button--bold,.section--bold,.item--bold,.works--bold,.header--bold,.hire--bold {
 
