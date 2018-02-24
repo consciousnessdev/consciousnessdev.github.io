@@ -18,12 +18,19 @@
     src: url('../fonts/HelveticaLTStd-Bold.otf') format('opentype');
 }
 
-
 /* Block Part */
 
-.header {}
+.header {
 
-  .header-section {}
+  }
+
+  .header-section {
+
+  }
+
+  .header-section__background {
+
+  }
 
   .container {}
 
@@ -39,7 +46,9 @@
 
         .content-section__hire {}
 
-.footer {}
+.footer {
+  
+  }
 
   .footer-section {}
 
@@ -145,37 +154,37 @@
 }
 
 .button--uppercase {
-  
+
 }
 
 .learnmore--light {
-  
+
 }
 
 .section--normal,.item--normal,.works--normal,.info--normal,.main--normal {
-  
+
 }
 
 .item--gray,.info--gray,.profile--gray {
-  
+
 }
 
 .works--softcol {
-  
+
 }
 .area--softcol {
-  
+
 }
 
 .visitweb--alphacol {
-  
+
 }
 .button--alphacol {
-  
+
 }
 
 .hire--color {
-  
+
 }
 
 /* Media Query for Desktop (Screen > 960px) */
