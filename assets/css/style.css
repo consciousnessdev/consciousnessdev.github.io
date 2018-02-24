@@ -1,5 +1,8 @@
 /* BEM Mobile First Orientation */
+
+
 /* Reference iPhone 6 dimension */
+
 
 /* Load Up Fonts */
 
@@ -15,47 +18,165 @@
     src: url('../fonts/HelveticaLTStd-Bold.otf') format('opentype');
 }
 
+
 /* Block Part */
-.header {
 
-    }
-    .header-section {
+.header {}
 
-    }
-    #header-section__background {
+  .header-section {}
 
-    }
-.content {
-    
-    }
-    .content-section {
+  .container {}
 
-    }
-.footer {
+    .content {}
 
-    }
-    .footer-section {
+      .content-section {}
 
-    }
+        .content-section__top {}
+
+        .content-section__works {}
+
+        .content-section__projects {}
+
+        .content-section__hire {}
+
+.footer {}
+
+  .footer-section {}
+
 
 /* Element Part */
-    .header__logo {
 
-    }
-    .header__label {
-        
-    }
+.header__logo {}
 
-    .header__button {
+.header__label {}
 
-    }
+.header__button {}
 
-    .header__learnmore {
-        
-    }
+.header__learnmore {}
+
+    .section__exp {}
+
+    .section__info {}
+
+    .section__item {}
+
+      .item__icon {}
+
+      .item__label {}
+
+      .item__info {}
+
+.works__wrapper {}
+
+  .works__self {}
+
+    .works__header {}
+
+    .works__example {}
+
+  .works__list {}
+
+    .works__client {}
+
+      .client__header {}
+
+      .client__area {}
+
+      .client__info {}
+
+      .client__visitweb {}
+
+      .works__result {}
+
+    .works__comment {}
+
+      .comment__wrapper {}
+
+        .comment__main {}
+
+        .comment__person {}
+
+          .person__pict {}
+
+          .person__profile {}
+
+.projects__wrapper {}
+
+  .projects__top {}
+
+    .projects__header {}
+
+    .projects__info {}
+
+  .projects__list {}
+
+    .projects__item {}
+
+    .item__logo {}
+
+    .item__information {}
+
+.hire__wrapper {}
+
+  .hire__top {}
+
+  .hire__info {}
+
+  .hire__button {}
+
+.footer__made {}
+
+  .footer__smlist {}
+
+    .smlist__item {}
 
 /* Modifier Part */
 
+.label--bold,.button--bold,.section--bold,.item--bold,.works--bold,.header--bold,.hire--bold {
+
+}
+
+.label--header {
+
+}
+
+.button--alphabg {
+
+}
+
+.button--uppercase {
+  
+}
+
+.learnmore--light {
+  
+}
+
+.section--normal,.item--normal,.works--normal,.info--normal,.main--normal {
+  
+}
+
+.item--gray,.info--gray,.profile--gray {
+  
+}
+
+.works--softcol {
+  
+}
+.area--softcol {
+  
+}
+
+.visitweb--alphacol {
+  
+}
+.button--alphacol {
+  
+}
+
+.hire--color {
+  
+}
 
 /* Media Query for Desktop (Screen > 960px) */
 
