@@ -29,7 +29,7 @@
   }
 
   .header-section__background {
-
+    background: url("../img/header_bg2.jpg") no-repeat fixed center;
   }
 
   .container {}
@@ -143,6 +143,7 @@
 
 /* Modifier Part */
 .background--full {
+  background-size: cover;
   width: 100%;
   height: auto;
   /* z-index */
@@ -150,6 +151,11 @@
 
 .background--tint {
   /* tint processing */
+  background: rgba(255, 0, 240, 0.5);
+}
+
+.background--tint:before {
+  
 }
 
 .label--bold,.button--bold,.section--bold,.item--bold,.works--bold,.header--bold,.hire--bold {
