@@ -25,14 +25,21 @@
   }
 
   .header-section {
-
+    background: url('../img/header_bg2.jpg') no-repeat center;
+    background-size: 100%;
+    height: 280px;
+    width: auto;
   }
 
-  .header-section__background {
-    background: url("../img/header_bg2.jpg") no-repeat fixed center;
+  #header-section__background {
+    height: 250px;
+    padding: 15px;
+    text-align: center;
   }
 
-  .container {}
+  .container {
+    
+  }
 
     .content {}
 
@@ -57,11 +64,26 @@
 
 .header__logo {
   
+  }
+
+  .header__logo img {
+    width: 35px;
+    height: auto;
+  }
+  .header__package {
+    margin: 35px auto;
+  }
+.header__label {
+    margin: 20px auto;
+    line-height: 1.25;
 }
 
-.header__label {}
-
-.header__button {}
+.header__button {
+    width: 135px;
+    margin: 0 auto;
+    height: 20px;
+    line-height: 22px;
+}
 
 .header__learnmore {}
 
@@ -143,39 +165,40 @@
 
 /* Modifier Part */
 .background--full {
-  background-size: cover;
-  width: 100%;
-  height: auto;
-  /* z-index */
-}
 
-.background--tint {
-  /* tint processing */
-  background: rgba(255, 0, 240, 0.5);
-}
-
-.background--tint:before {
-  
 }
 
 .label--bold,.button--bold,.section--bold,.item--bold,.works--bold,.header--bold,.hire--bold {
-
+  font-family: helveticaBLD;
 }
 
-.label--header {
+.label--header {font-size: 16pt;}
 
+.label--top {
+    display: block;
 }
 
-.button--alphabg {
-
+.label--white, .button--white, .learnmore--white, .nextlearn--white {
+  color: #fff;
 }
 
-.button--uppercase {
+.button--alphabg {background-color: rgba(0,0,0, 0.0);border: 1px #F8DB64 solid;border-radius: 15px;}
 
+.button--ss {
+  font-size: 5pt;
 }
 
 .learnmore--light {
+  font-family: heveticaSTD;
+  font-weight: lighter;
+}
 
+.learnmore--xs {
+  font-size: 6pt;
+}
+
+.nextlearn--ms {
+  font-size: 8pt;
 }
 
 .section--normal,.item--normal,.works--normal,.info--normal,.main--normal {
