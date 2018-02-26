@@ -38,14 +38,17 @@
   }
 
   .container {
-    
+    text-align: center;
+    margin: 0 30px;
   }
 
     .content {}
 
       .content-section {}
 
-        .content-section__top {}
+        .content-section__expertise {
+    margin: 30px auto;
+}
 
         .content-section__works {}
 
@@ -87,15 +90,23 @@
 
 .header__learnmore {}
 
-    .section__exp {}
+    .section__exp {
+    margin: 50px auto 10px auto;
+}
 
-    .section__info {}
+    .section__info {
+    font-size: 10pt;
+    margin: 10px auto 30px auto;
+}
 
-    .section__item {}
+    .section__item {margin: 48px auto;}
 
-      .item__icon {}
+      .item__icon {
+    font-size: 20pt;
+    margin: 10px auto;
+}
 
-      .item__label {}
+      .item__label {margin: 10px auto;}
 
       .item__info {}
 
@@ -119,7 +130,13 @@
 
       .client__visitweb {}
 
-      .works__result {}
+      .works__result {
+
+      }
+      .works__result img{
+        width: 320px;
+        height: auto;
+      }
 
     .works__comment {}
 
@@ -172,7 +189,9 @@
   font-family: helveticaBLD;
 }
 
-.label--header {font-size: 16pt;}
+.section--header, .label--header, .item--header {
+  font-size: 16pt;
+}
 
 .label--top {
     display: block;
@@ -182,13 +201,17 @@
   color: #fff;
 }
 
-.button--alphabg {background-color: rgba(0,0,0, 0.0);border: 1px #F8DB64 solid;border-radius: 15px;}
+.button--alphabg {
+  background-color: rgba(0,0,0, 0.0);
+  border: 1px #F8DB64 solid;
+  border-radius: 15px;
+}
 
 .button--ss {
   font-size: 5pt;
 }
 
-.learnmore--light {
+.learnmore--light, .section--normal {
   font-family: heveticaSTD;
   font-weight: lighter;
 }
@@ -197,17 +220,19 @@
   font-size: 6pt;
 }
 
-.nextlearn--ms {
+.nextlearn--ms, .item--ms {
   font-size: 8pt;
 }
 
-.section--normal,.item--normal,.works--normal,.info--normal,.main--normal {
+.item--normal,.works--normal,.info--normal,.main--normal {font-family: helveticaSTD;}
 
+.item--overcolor {
+  color: #F8DB64;
 }
 
-.item--gray,.info--gray,.profile--gray {
+.item--gray,.info--gray,.profile--gray {color: #C2C2C2;}
 
-}
+.item--lineheight {line-height: 2;}
 
 .works--softcol {
 
