@@ -55,7 +55,9 @@
         .content-section__works {
 }
 
-        .content-section__projects {}
+        .content-section__projects {
+    margin: 30px auto;
+}
 
         .content-section__hire {}
 
