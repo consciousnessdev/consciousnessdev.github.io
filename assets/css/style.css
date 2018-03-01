@@ -39,18 +39,21 @@
 
   .container {
     text-align: center;
-    margin: 0 30px;
+    margin: 0 auto;
+    width: 300px;
   }
 
     .content {}
 
-      .content-section {}
+      .content-section {
+}
 
         .content-section__expertise {
     margin: 30px auto;
 }
 
-        .content-section__works {}
+        .content-section__works {
+}
 
         .content-section__projects {}
 
@@ -95,7 +98,6 @@
 }
 
     .section__info {
-    font-size: 10pt;
     margin: 10px auto 30px auto;
 }
 
@@ -110,45 +112,86 @@
 
       .item__info {}
 
-.works__wrapper {}
+.works__wrapper {
+  width: 300px;
+  margin: 0 auto;
+  padding: 50px 0;
+  text-align: center;
+  }
 
   .works__self {}
 
-    .works__header {}
+    .works__header {
+      margin: 20px auto 10px auto;
+    }
 
-    .works__example {}
+    .works__example {
+      margin: 10px auto 30px auto;
+    }
 
   .works__list {}
 
-    .works__client {}
+    .works__client {
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
 
       .client__header {}
 
-      .client__area {}
+      .client__area {
+    margin: 5px auto;
+    line-height: 1.25;
+}
 
-      .client__info {}
+      .client__info {
+        text-align: justify;
+        margin: 10px auto 0 auto;
+        line-height: 1.5;
+      }
 
-      .client__visitweb {}
+      .client__visitweb {
+         margin: 0 auto 5px auto;
+         float: right;
+         display: flex;
+         height: 20px;
+         width: 109px;
+         align-items:  center;
+         justify-content: center;
+         padding-top:  5px;
+         clear: both;
+      }
 
       .works__result {
-
-      }
+    margin: 20px auto 0px auto;
+    padding-top: 20px;
+}
       .works__result img{
-        width: 320px;
+        width: 80%;
         height: auto;
       }
 
-    .works__comment {}
+    .works__comment {
+      padding-top: 5px;
+      padding-bottom: 10px;
+    }
 
       .comment__wrapper {}
 
-        .comment__main {}
+        .comment__main {
+    margin: 10px auto;
+    line-height: 1.5;
+}
 
-        .comment__person {}
+        .comment__person {
+    display: flex;
+    align-items:  center;
+}
 
           .person__pict {}
 
-          .person__profile {}
+          .person__profile {
+    text-align:  left;
+}
 
 .projects__wrapper {}
 
@@ -189,8 +232,24 @@
   font-family: helveticaBLD;
 }
 
-.section--header, .label--header, .item--header {
+.section--header, .label--header, .item--header, .self--header {
   font-size: 16pt;
+}
+
+.item--nine {
+  font-size: 9pt;
+}
+
+.section--ten, .works--ten, .info--ten, .main--ten, .profile--ten {
+  font-size: 10pt;
+}
+
+.comment--topborder, .result--topborder {
+  border-top: 1px solid #C2C2C2;
+}
+
+.pict--circle {
+  clip-path: circle(45px at center);
 }
 
 .label--top {
@@ -211,7 +270,7 @@
   font-size: 5pt;
 }
 
-.learnmore--light, .section--normal {
+.learnmore--light, .section--normal, .works--normal, .main--normal, .profile--light {
   font-family: heveticaSTD;
   font-weight: lighter;
 }
@@ -220,29 +279,62 @@
   font-size: 6pt;
 }
 
-.nextlearn--ms, .item--ms {
+.visitweb--mids {
+  font-size: 7pt;  
+}
+
+.nextlearn--ms, .area--ms, .info--ms {
   font-size: 8pt;
 }
 
-.item--normal,.works--normal,.info--normal,.main--normal {font-family: helveticaSTD;}
+.item--normal,.info--normal {
+  font-family: helveticaSTD;
+}
 
 .item--overcolor {
   color: #F8DB64;
 }
 
-.item--gray,.info--gray,.profile--gray {color: #C2C2C2;}
+.item--gray,.profile--gray {color: #C2C2C2;}
+
+.info--grayblck {
+  color: #7f7f7f;
+}
 
 .item--lineheight {line-height: 2;}
 
 .works--softcol {
-
+  color: #64B7FF;
 }
-.area--softcol {
 
+.works--link {
+  text-decoration: none;
+}
+
+.works--color {
+  background-color: #EEEEEE;
+}
+
+.header--top {
+  font-size: 15px;
+}
+
+.header--left, .area--left, .visitweb--left {
+  text-align: left;
+}
+
+.header--right, .area--right, .visitweb--right {
+  text-align: right;
+}
+
+.area--softcol {
+  color: rgb(177, 177, 177);
 }
 
 .visitweb--alphacol {
-
+  background-color: rgba(0,0,0, 0.0);
+  border: 2px #F8DB64 solid;
+  border-radius: 20px;
 }
 .button--alphacol {
 
@@ -262,3 +354,8 @@
 
 
 /* Modifier Part */
+
+
+.wrapper__visitweb {
+  height: 30px;
+}
