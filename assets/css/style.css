@@ -20,6 +20,10 @@
 
 /* Block Part */
 
+* {
+  font-family: helveticaSTD;
+}
+
 .header {
 
   }
