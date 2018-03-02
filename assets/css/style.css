@@ -79,7 +79,7 @@ body {
 
   .footer-section {
     padding-top: 50px;
-    padding-bottom:  50px;
+    padding-bottom: 30px;
     background-color: #25282F;
 }
 
@@ -278,11 +278,86 @@ body {
 }
 
   .footer__smlist {
-    margin: 10px auto 50px auto;
+    margin: 10px auto 0px auto;
 }
 
-    .smlist__item {
-    display: inline-block;
+.smlist__item {
+	display: inline-block;
+	text-align: center;
+	margin: 0 auto;
+}
+
+.fa {
+	display: inline-block;
+	font-size: 0px;
+	cursor: pointer;
+	width: 35px;
+	height: 35px;
+	border-radius: 50%;
+	text-align: center;
+	position: relative;
+	z-index: 1;
+	color: #eeeeee;
+}
+
+.fa:after {
+	pointer-events: none;
+	position: absolute;
+	width: 100%;
+	height: 100%;
+	border-radius: 50%;
+	content: '';
+	-webkit-box-sizing: content-box; 
+	-moz-box-sizing: content-box; 
+	box-sizing: content-box;
+}
+
+.fa:before {
+	speak: none;
+	font-size: 30px;
+	line-height: 37px;
+	font-style: normal;
+	font-weight: normal;
+	font-variant: normal;
+	text-transform: none;
+	display: block;
+	-webkit-font-smoothing: antialiased;
+}
+
+. item--effects .fa {
+	background: rgba(238,238,238,0.1);
+	-webkit-transition: background 0.2s, color 0.2s;
+	-moz-transition: background 0.2s, color 0.2s;
+	transition: background 0.2s, color 0.2s;
+}
+
+. item--effects .fa:after {
+	top: -7px;
+	left: -7px;
+	padding: 11px;
+	box-shadow: 0 0 0 4px #EEEEEE;
+	-webkit-transition: -webkit-transform 0.2s, opacity 0.2s;
+	-webkit-transform: scale(.8);
+	-moz-transition: -moz-transform 0.2s, opacity 0.2s;
+	-moz-transform: scale(.8);
+	-ms-transform: scale(.8);
+	transition: transform 0.2s, opacity 0.2s;
+	transform: scale(.8);
+	opacity: 0;
+}
+
+/* Effect 1a */
+.item--deeps .fa:hover {
+	background: rgba(238,238,238,1);
+	color: #25282F;
+}
+
+.item--deeps .fa:hover:after {
+	-webkit-transform: scale(1);
+	-moz-transform: scale(1);
+	-ms-transform: scale(1);
+	transform: scale(1);
+	opacity: 1;
 }
 
 /* Modifier Part */
@@ -294,7 +369,7 @@ body {
   font-family: helveticaBLD;
 }
 
-.section--header, .label--header, .item--header, .self--header, .projects--header, .hire--header {
+.section--header, .label--header, .item--header, .self--header, .projects--header, .hire--header, .smlist--header {
   font-size: 16pt;
 }
 
