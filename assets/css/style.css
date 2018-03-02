@@ -283,6 +283,9 @@
 
 .pict--circle {
   clip-path: circle(45px at center);
+  -webkit-clip-path: circle(45px at center);
+  -moz-clip-path: circle(45px at center);
+  -o-clip-path: circle(45px at center);
 }
 
 .label--top {
