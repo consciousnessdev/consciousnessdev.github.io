@@ -18,10 +18,16 @@
     src: url('../fonts/HelveticaLTStd-Bold.otf') format('opentype');
 }
 
+@font-face {
+    font-family: aurulentSans;
+    src: url('../fonts/AurulentSans-Regular.otf');
+    src: url('../fonts/AurulentSans-Regular.otf') format('opentype');
+}
+
 /* Block Part */
 
 * {
-  font-family: helveticaSTD;
+  font-family: aurulentSans;
 }
 
 .header {
