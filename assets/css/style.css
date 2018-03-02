@@ -56,7 +56,7 @@
 }
 
         .content-section__projects {
-    margin: 30px auto;
+    margin: 50px auto;
 }
 
         .content-section__hire {}
@@ -195,21 +195,42 @@
     text-align:  left;
 }
 
-.projects__wrapper {}
+.projects__wrapper {
+    width: 300px;
+    margin: 0 auto;
+    text-align: center;
+    padding-top: 10px;
+}
 
-  .projects__top {}
+  .projects__top {
+    margin: 15px auto;
+    padding-bottom:  10px;
+  }
 
-    .projects__header {}
+    .projects__header {margin: 10px auto 10px auto;}
 
-    .projects__info {}
+    .projects__info {
+    line-height: 1.5;
+}
 
-  .projects__list {}
+  .projects__list {
+    margin: 30px auto;
+}
 
-    .projects__item {}
+    .projects__item {
+    margin: 0 auto 40px auto;
+}
 
-    .item__logo {}
+    .item__logo img {
+        width: 80%;
+        height: auto;
+        border-radius: 5px;
+    }
 
-    .item__information {}
+    .item__information {
+    line-height: 1.5;
+    margin-top:  10px;
+}
 
 .hire__wrapper {}
 
@@ -234,7 +255,7 @@
   font-family: helveticaBLD;
 }
 
-.section--header, .label--header, .item--header, .self--header {
+.section--header, .label--header, .item--header, .self--header, .projects--header {
   font-size: 16pt;
 }
 
@@ -242,7 +263,7 @@
   font-size: 9pt;
 }
 
-.section--ten, .works--ten, .info--ten, .main--ten, .profile--ten {
+.section--ten, .works--ten, .info--ten, .main--ten, .profile--ten, .info--ten {
   font-size: 10pt;
 }
 
@@ -272,7 +293,7 @@
   font-size: 5pt;
 }
 
-.learnmore--light, .section--normal, .works--normal, .main--normal, .profile--light {
+.learnmore--light, .section--normal, .works--normal, .main--normal, .profile--light, {
   font-family: heveticaSTD;
   font-weight: lighter;
 }
