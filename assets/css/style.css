@@ -69,13 +69,19 @@ body {
     margin: 50px auto;
 }
 
-        .content-section__hire {}
+        .content-section__hire {
+    padding: 50px 15px;
+}
 
 .footer {
   
   }
 
-  .footer-section {}
+  .footer-section {
+    padding-top: 50px;
+    padding-bottom:  50px;
+    background-color: #25282F;
+}
 
 
 /* Element Part */
@@ -97,7 +103,7 @@ body {
 }
 
 .header__button {
-    width: 135px;
+    width: 150px;
     margin: 0 auto;
     height: 20px;
     line-height: 22px;
@@ -142,6 +148,10 @@ body {
     }
 
   .works__list {}
+  
+  .wrapper__visitweb {
+    height: 30px;
+  }
 
     .works__client {
     padding-top: 20px;
@@ -163,7 +173,7 @@ body {
 
       .client__visitweb {
          margin: 0 auto 5px auto;
-         float: right;
+         /* float: right; */
          display: flex;
          height: 20px;
          width: 109px;
@@ -242,19 +252,38 @@ body {
     margin-top:  10px;
 }
 
-.hire__wrapper {}
+.hire__wrapper {
+    text-align:  center;
+}
 
-  .hire__top {}
+  .hire__top {
+    margin: 20px auto;
+    line-height: 1.5;
+}
 
-  .hire__info {}
+  .hire__info {
+    margin: 10px auto 30px auto;
+    line-height: 1.5;
+}
 
-  .hire__button {}
+  .hire__button {
+    width: 90px;
+    margin: 20px auto;
+    height: 25px;
+    line-height: 26px;
+}
 
-.footer__made {}
+.footer__made {
+    margin-top: 50px;
+}
 
-  .footer__smlist {}
+  .footer__smlist {
+    margin: 10px auto 50px auto;
+}
 
-    .smlist__item {}
+    .smlist__item {
+    display: inline-block;
+}
 
 /* Modifier Part */
 .background--full {
@@ -265,7 +294,7 @@ body {
   font-family: helveticaBLD;
 }
 
-.section--header, .label--header, .item--header, .self--header, .projects--header {
+.section--header, .label--header, .item--header, .self--header, .projects--header, .hire--header {
   font-size: 16pt;
 }
 
@@ -302,30 +331,30 @@ body {
   border-radius: 15px;
 }
 
-.button--ss {
-  font-size: 5pt;
-}
 
-.learnmore--light, .section--normal, .works--normal, .main--normal, .profile--light, {
-  font-family: heveticaSTD;
+
+.learnmore--light, .works--light, .profile--light {
+  font-family: helveticaSTD;
   font-weight: lighter;
 }
 
-.learnmore--xs {
+
+.button--xs, .learnmore--xs {
   font-size: 6pt;
 }
 
 .visitweb--mids {
-  font-size: 7pt;  
+  font-size: 7pt;
 }
 
-.nextlearn--ms, .area--ms, .info--ms {
+.nextlearn--ms, .area--ms, .info--ms, .made--ms {
   font-size: 8pt;
 }
 
-.item--normal,.info--normal {
+.item--normal,.info--normal,.main--normal,.section--normal {
   font-family: helveticaSTD;
 }
+
 
 .item--overcolor {
   color: #F8DB64;
@@ -347,6 +376,8 @@ body {
   text-decoration: none;
 }
 
+
+
 .works--color {
   background-color: #EEEEEE;
 }
@@ -355,17 +386,26 @@ body {
   font-size: 15px;
 }
 
-.header--left, .area--left, .visitweb--left {
+.header--left, .area--left {
   text-align: left;
 }
 
-.header--right, .area--right, .visitweb--right {
+.visitweb--fleft {
+  float: left;
+}
+
+.header--right, .area--right {
   text-align: right;
+}
+
+.visitweb--fright {
+  float: right;
 }
 
 .area--softcol {
   color: rgb(177, 177, 177);
 }
+
 
 .visitweb--alphacol {
   background-color: rgba(0,0,0, 0.0);
@@ -373,11 +413,15 @@ body {
   border-radius: 20px;
 }
 .button--alphacol {
-
+  background-color: rgba(0,0,0, 0.0);
+  border: 1px #000000 solid;
+  border-radius: 15px;
 }
 
-.hire--color {
+.hire--color {background-color: #fed700;}
 
+.footer--color {
+  color: #EEEEEE;
 }
 
 /* Media Query for Desktop (Screen > 960px) */
@@ -390,8 +434,3 @@ body {
 
 
 /* Modifier Part */
-
-
-.wrapper__visitweb {
-  height: 30px;
-}
