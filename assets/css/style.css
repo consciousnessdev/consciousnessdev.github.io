@@ -461,7 +461,7 @@ body {
 	font-size:inherit;
 	text-rendering:auto;
 	-webkit-font-smoothing:antialiased;
-	-moz-osx-font-smoothing:grayscale
+	-moz-osx-font-smoothing:grayscale;
 	cursor: pointer;
 	width: 35px;
 	height: 35px;
