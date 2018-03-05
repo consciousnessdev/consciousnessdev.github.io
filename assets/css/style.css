@@ -123,6 +123,7 @@ body {
 
     .section__info {
     margin: 10px auto 30px auto;
+    line-height: 1.5;
 }
 
     .section__item {margin: 48px auto;}
