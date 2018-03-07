@@ -463,8 +463,8 @@ body {
 	-webkit-font-smoothing:antialiased;
 	-moz-osx-font-smoothing:grayscale;
 	cursor: pointer;
-	width: 35px;
-	height: 35px;
+  width: 33px;
+  height: 33px;
 	border-radius: 50%;
 	text-align: center;
 	position: relative;
