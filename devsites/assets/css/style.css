@@ -103,10 +103,10 @@ body {
 }
 
 .header__button {
-    width: 150px;
+    width: 165px;
     margin: 0 auto;
     height: 20px;
-    line-height: 22px;
+    line-height: 24px;
 }
 
 .header__learnmore {
@@ -276,7 +276,7 @@ body {
     width: 90px;
     margin: 20px auto;
     height: 25px;
-    line-height: 26px;
+    line-height: 28px;
 }
 
 .footer__made {
@@ -339,7 +339,12 @@ body {
   border-radius: 15px;
 }
 
-
+.button--alphabg:hover {
+  background-color: #F8DB64;
+  border-color: #000000;
+  border-radius: 15px;
+  color: #000000;
+}
 
 .learnmore--light, .works--light, .profile--light {
   font-family: helveticaSTD;
@@ -351,7 +356,7 @@ body {
   font-size: 6pt;
 }
 
-.visitweb--mids {
+.button--mids, .visitweb--mids {
   font-size: 7pt;
 }
 
@@ -422,11 +427,28 @@ body {
   border: 2px #F8DB64 solid;
   border-radius: 20px;
 }
+
+.visitweb--alphacol:hover {
+  background-color: #fed700;
+  border: 2px #000000 solid;
+  border-radius: 15px;
+  color: #000000;
+}
+
 .button--alphacol {
   background-color: rgba(0,0,0, 0.0);
   border: 1px #000000 solid;
   border-radius: 15px;
 }
+
+.button--alphacol:hover {
+  background-color: #000000;
+  border: 1px #fed700 solid;
+  border-radius: 15px;
+  color: #fed700;
+}
+
+
 
 .hire--color {background-color: #fed700;}
 
