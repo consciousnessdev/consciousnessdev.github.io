@@ -486,8 +486,8 @@ body {
 
 .sm__icon:before {
 	speak: none;
-	font-size: 30px;
-	line-height: 37px;
+  font-size: 25px;
+  line-height: 35px;
 	font-style: normal;
 	font-weight: normal;
 	font-variant: normal;
