@@ -27,7 +27,7 @@
 /* Block Part */
 
 body {
-
+	font-family: helveticaSTD;
 }
 
 .header {
@@ -203,7 +203,8 @@ body {
       padding-bottom: 10px;
     }
 
-      .comment__wrapper {}
+      .comment__wrapper {
+}
 
         .comment__main {
     margin: 10px auto;
@@ -309,8 +310,16 @@ body {
   font-size: 9pt;
 }
 
-.section--ten, .works--ten, .info--ten, .main--ten, .profile--ten, .info--ten {
-  font-size: 10pt;
+.info--ten {
+	font-size: 10pt;
+}
+
+.section--ten, .works--ten, .main--ten, .profile--ten {
+  font-size: 11pt;
+}
+
+.info--projects {
+	
 }
 
 .comment--topborder, .result--topborder {
@@ -643,7 +652,7 @@ body {
 
     .section__item {
     display:  inline-block;
-    width: 32%;
+    width: 32.333333%;
     height: auto;
 }
 
@@ -657,6 +666,7 @@ body {
       .item__info {}
 
 .works__wrapper {
+  padding: 70px 0 20px;
   }
 
   .works__self {}
@@ -666,21 +676,27 @@ body {
     }
 
     .works__example {
-      margin: 10px auto 30px auto;
+      margin: 20px auto 30px auto;
     }
 
-  .works__list {}
+  .works__list {
+}
   
   .wrapper__visitweb {
-    height: 30px;
+    height: 40px;
+    float: left;
+    margin: 49px auto;
   }
 
     .works__client {
-    padding-top: 20px;
+    padding-top: 35px;
     padding-bottom: 20px;
+    display: flex;
+    align-items: flex-start;
 }
-
-      .client__header {}
+      .client__wrapper {width: 50%;}
+      .client__header {
+      }
 
       .client__area {
     margin: 5px auto;
@@ -688,34 +704,29 @@ body {
 }
 
       .client__info {
-        text-align: justify;
-        margin: 10px auto 0 auto;
+        text-align: left;
         line-height: 1.5;
       }
 
       .client__visitweb {
          margin: 0 auto;
          display: flex;
-         height: 20px;
-         width: 95px;
+         height: 31px;
+         width: 135px;
          align-items:  center;
          justify-content: center;
          clear: both;
          padding-top: 3px;
       }
 
-      .works__result {
-    margin: 20px auto 0px auto;
-    padding-top: 20px;
-}
+      .works__result {margin: 0;width: 50%;padding: 0;}
       .works__result img{
-        width: 80%;
         height: auto;
       }
 
     .works__comment {
-      padding-top: 5px;
-      padding-bottom: 10px;
+      padding-top: 40px;
+      padding-bottom: 40px;
     }
 
       .comment__wrapper {}
@@ -723,11 +734,13 @@ body {
         .comment__main {
     margin: 10px auto;
     line-height: 1.5;
+    width: 60%;
 }
 
         .comment__person {
     display: flex;
     align-items:  center;
+    justify-content: center;
 }
 
           .person__pict {}
@@ -820,8 +833,12 @@ body {
   font-size: 10pt;
 }
 
-.section--ten, .works--ten, .info--ten, .main--ten, .profile--ten, .info--ten {
-  font-size: 12pt;
+.section--ten, .info--ten, .profile--ten {
+  font-size: 10pt;
+}
+
+.works--ten, .main--ten {
+  font-size: 16pt;
 }
 
 .comment--topborder, .result--topborder {
@@ -870,7 +887,7 @@ body {
 }
 
 .learnmore--ms, .area--ms, .info--ms, .made--ms {
-  font-size: 11pt;
+  font-size: 8pt;
 }
 
 .nextlearn--ms {
@@ -910,8 +927,14 @@ body {
   background-color: #EEEEEE;
 }
 
+.works--order1 {order: 1;}
+
+.works--order2 {
+  order: 2;
+}
+
 .header--top {
-  font-size: 15px;
+  font-size: 16pt;
 }
 
 .header--left, .area--left {
@@ -923,7 +946,7 @@ body {
 }
 
 .header--right, .area--right {
-  text-align: right;
+  text-align: left;
 }
 
 .visitweb--fright {
@@ -960,8 +983,6 @@ body {
   border-radius: 15px;
   color: #fed700;
 }
-
-
 
 .hire--color {background-color: #fed700;}
 
