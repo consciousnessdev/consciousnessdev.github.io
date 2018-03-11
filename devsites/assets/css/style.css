@@ -564,7 +564,7 @@ body {
   .header-section {height: auto;}
 
   #header-section__background {
-    height: 585px;
+    height: 625px;
   }
 
   .container, .works__wrapper, .projects__wrapper, .hire__wrapper  {
@@ -606,7 +606,7 @@ body {
 
 .header__logo {
   padding-top: 20px;
-  padding-bottom: 10px;
+  padding-bottom: 20px;
   }
 
   .header__logo img {
@@ -614,7 +614,7 @@ body {
     height: auto;
   }
   .header__package {
-    margin: 130px auto;
+    margin: 140px auto;
   }
 .header__label {margin-bottom: 50px;}
 
@@ -624,7 +624,9 @@ body {
     line-height: 37px;
 }
 
-.header__learnmore {}
+.header__learnmore {
+    padding-top: 10px;
+}
 
 .header__nextlearn {
   margin: 2px auto;
