@@ -631,7 +631,7 @@ body {
 }
 
     .section__exp {
-    margin: 50px auto 10px auto;
+    margin: 100px auto 20px auto;
 }
 
     .section__info {
@@ -639,10 +639,14 @@ body {
     line-height: 1.5;
 }
 
-    .section__item {margin: 48px auto;}
+    .section__item {
+    display:  inline-block;
+    width: 32%;
+    height: auto;
+}
 
       .item__icon {
-    font-size: 20pt;
+    font-size: 30pt;
     margin: 10px auto;
 }
 
@@ -808,14 +812,14 @@ body {
   font-size: 30pt;
 }
 
-.section--header, .item--header, .self--header, .projects--header, .hire--header, .smlist--header {font-size: 18pt;}
+.section--header, .item--header, .self--header, .projects--header, .hire--header, .smlist--header {font-size: 20pt;}
 
 .item--nine {
-  font-size: 9pt;
+  font-size: 10pt;
 }
 
 .section--ten, .works--ten, .info--ten, .main--ten, .profile--ten, .info--ten {
-  font-size: 10pt;
+  font-size: 12pt;
 }
 
 .comment--topborder, .result--topborder {
