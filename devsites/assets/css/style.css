@@ -260,6 +260,7 @@ body {
 
 .hire__wrapper {
     text-align:  center;
+    margin: 0 auto;
 }
 
   .hire__top {
@@ -554,12 +555,16 @@ body {
 }
 
 /* Media Query for Desktop (Screen > 960px) */
-
+@media (min-width: 959px) and (max-width: 1199px) {
 
 /* Block Part */
-
+.container, .works__wrapper, .projects__wrapper, .hire__wrapper {
+  width: 768px;
+}
 
 /* Element Part */
 
 
 /* Modifier Part */
+
+}
