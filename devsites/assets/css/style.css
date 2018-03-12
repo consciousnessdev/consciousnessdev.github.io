@@ -632,7 +632,7 @@ body {
         margin: 50px auto;
     }
     .content-section__hire {
-        padding: 50px 15px;
+        padding: 80px 15px;
     }
     .footer {}
     .footer-section {
@@ -796,19 +796,19 @@ body {
         line-height: 1.5;
     }
     .hire__info {
-        margin: 10px auto 30px auto;
+        margin: 10px auto 45px auto;
         line-height: 1.5;
         padding: 0 110px;
     }
     .hire__button {
-        margin: 0 auto;
+        margin: 25px auto;
         display: flex;
-        height: 31px;
-        width: 135px;
+        height: 40px;
+        width: 180px;
         align-items: center;
         justify-content: center;
         clear: both;
-        padding-top: 3px;
+        padding-top: 5px;
     }
     .footer__made {
         margin-top: 50px;
@@ -890,7 +890,7 @@ body {
         font-weight: lighter;
     }
     .button--xs {
-        font-size: 6pt;
+        font-size: 10pt;
     }
     .button--mids,
     .visitweb--mids {
@@ -983,16 +983,16 @@ body {
     .button--alphacol {
         background-color: rgba(0, 0, 0, 0.0);
         border: 2px #000000 solid;
-        border-radius: 20px;
+        border-radius: 30px;
     }
     .button--alphacol:hover {
         background-color: #000000;
-        border: 2px #fed700 solid;
-        border-radius: 20px;
-        color: #fed700;
+        border: 2px #F8DB64 solid;
+        border-radius: 30px;
+        color: #F8DB64;
     }
     .hire--color {
-        background-color: #fed700;
+        background-color: #F8DB64;
     }
     .footer--color {
         color: #EEEEEE;
