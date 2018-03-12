@@ -803,7 +803,7 @@ body {
     .hire__button {
         margin: 25px auto;
         display: flex;
-        height: 40px;
+        height: 35px;
         width: 180px;
         align-items: center;
         justify-content: center;
@@ -812,6 +812,7 @@ body {
     }
     .footer__made {
         margin-top: 50px;
+        margin-bottom: 30px;
     }
     .footer__smlist {
         margin: 10px auto 0px auto;
