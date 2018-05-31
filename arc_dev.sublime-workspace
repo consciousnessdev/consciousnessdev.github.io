@@ -1,0 +1,1647 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"togg",
+				"toggle"
+			],
+			[
+				"tran",
+				"transitionend"
+			],
+			[
+				"class",
+				"classList\t: DOMTokenList Element"
+			],
+			[
+				"visi",
+				"visibility"
+			],
+			[
+				"if",
+				"iframe\tTag"
+			],
+			[
+				"fa",
+				"jquery.fancybox-1.3.4.css"
+			],
+			[
+				"js",
+				"jquery.fancybox-1.3.4.js"
+			],
+			[
+				"tex",
+				"text-decoration"
+			],
+			[
+				"cate",
+				"category"
+			],
+			[
+				"ta",
+				"tags"
+			],
+			[
+				"categor",
+				"categories"
+			],
+			[
+				"category",
+				"category_post.php"
+			],
+			[
+				"post",
+				"post_tag.php"
+			],
+			[
+				"us",
+				"user"
+			],
+			[
+				"wh",
+				"where"
+			],
+			[
+				"Bladefo",
+				"Blade::foreach\tBlade @foreach"
+			],
+			[
+				"col-lg-o",
+				"col-lg-offset-10\t bootstrap.min.css"
+			],
+			[
+				"end",
+				"endsection"
+			],
+			[
+				"section",
+				"section\t(app.blade.php)"
+			],
+			[
+				"rou",
+				"route\t(PostController.php)"
+			],
+			[
+				"req",
+				"request"
+			],
+			[
+				"va",
+				"validate\t(PostController.php)"
+			],
+			[
+				"cre",
+				"create"
+			],
+			[
+				"admi",
+				"admin.category.category"
+			],
+			[
+				"name",
+				"namespace"
+			],
+			[
+				"form-",
+				"form-group"
+			],
+			[
+				"admin",
+				"admin_side"
+			],
+			[
+				"lay",
+				"layouts/"
+			],
+			[
+				"sub",
+				"sub-heading\t(header.blade.php)"
+			],
+			[
+				"use",
+				"user_side"
+			],
+			[
+				"ex",
+				"extends\t(blog.blade.php)"
+			],
+			[
+				"sec",
+				"section"
+			],
+			[
+				"login",
+				"login_phone\t(AdminRegisterController.php)"
+			],
+			[
+				"Admin",
+				"AdminRegisterController\t(AdminRegisterController.php)"
+			],
+			[
+				"conte",
+				"contentx"
+			],
+			[
+				"func",
+				"function_with_name"
+			],
+			[
+				"Rou",
+				"Route::get\tBasic Get Route."
+			],
+			[
+				"light",
+				"lightness\tlightness()"
+			],
+			[
+				"th",
+				"three"
+			],
+			[
+				"he",
+				"height"
+			],
+			[
+				"padd",
+				"padding-box"
+			],
+			[
+				"back",
+				"background-clip"
+			],
+			[
+				"bor",
+				"border"
+			],
+			[
+				"border",
+				"border-radius"
+			],
+			[
+				"meta",
+				"meta\tTag"
+			],
+			[
+				"html",
+				"html\thtml"
+			],
+			[
+				"fonfa",
+				"font-family"
+			],
+			[
+				"marg",
+				"margin"
+			],
+			[
+				"row",
+				"row--resizeh\t style.css"
+			],
+			[
+				"inli",
+				"inline-block"
+			],
+			[
+				"mar",
+				"margin-top"
+			],
+			[
+				"fos",
+				"font-size"
+			],
+			[
+				"po",
+				"position"
+			],
+			[
+				"inlin",
+				"inline"
+			],
+			[
+				"inl",
+				"inline-block"
+			],
+			[
+				"inline",
+				"inline-block"
+			],
+			[
+				"col",
+				"column"
+			],
+			[
+				"texa",
+				"text-align"
+			],
+			[
+				"Helv",
+				"HelveticaRoman"
+			],
+			[
+				"card--bo",
+				"card--border\t(style.css)"
+			],
+			[
+				"bordr",
+				"border-radius"
+			],
+			[
+				"ali",
+				"align-items"
+			],
+			[
+				"spa",
+				"space-between"
+			],
+			[
+				"footer",
+				"footer--resize\t(style.css)"
+			],
+			[
+				"fonts",
+				"font-size"
+			],
+			[
+				"fons",
+				"font-size"
+			],
+			[
+				"font",
+				"font-style"
+			],
+			[
+				"Hel",
+				"HelveticaRoman"
+			],
+			[
+				"backc",
+				"background-color"
+			],
+			[
+				"fun",
+				"function_with_name"
+			],
+			[
+				"onc",
+				"onchange\t: EventHandler Document"
+			],
+			[
+				"form",
+				"formAct"
+			],
+			[
+				"attr",
+				"setAttribute\t( name: DOMString, value: DOMString ): void Element"
+			],
+			[
+				"functi",
+				"function_without_name"
+			],
+			[
+				"con",
+				"container_12\t(index.html)"
+			],
+			[
+				"grid",
+				"grid_3\t(index.html)"
+			],
+			[
+				"sc",
+				"screen\t(style.css)"
+			],
+			[
+				"min",
+				"min-width"
+			],
+			[
+				"media",
+				"media portrait\tportrait"
+			],
+			[
+				"sty",
+				"style"
+			],
+			[
+				"s",
+				"style/"
+			],
+			[
+				"med",
+				"media query iphone 4\tiphone 4"
+			],
+			[
+				"jquery-",
+				"jquery-3.3.1.min.js"
+			],
+			[
+				"typo",
+				"_typography.scss"
+			],
+			[
+				"jq",
+				"_jquery_ui.min.scss"
+			],
+			[
+				"termni",
+				"terminology/"
+			],
+			[
+				"hml",
+				"htmlboiler\thtmlboiler"
+			],
+			[
+				"ht",
+				"htmlboiler\thtmlboiler"
+			],
+			[
+				"max",
+				"max-width"
+			],
+			[
+				"foot",
+				"footer-nav\t(index.html)"
+			],
+			[
+				"print",
+				"print_r〔function〕"
+			],
+			[
+				"font-s",
+				"font-size"
+			],
+			[
+				"wha",
+				"what-info-new-content-title\t(index.html)"
+			],
+			[
+				"what",
+				"what-info-new-img\t(index.html)"
+			],
+			[
+				"im",
+				"img/"
+			],
+			[
+				"twit",
+				"twitterBtn\t(main.scss)"
+			],
+			[
+				"rss",
+				"rssBtn\t(main.scss)"
+			],
+			[
+				"base",
+				"base-color\t main.scss"
+			],
+			[
+				"textal",
+				"text-align"
+			],
+			[
+				"about",
+				"about-me-head\t(index.html)"
+			],
+			[
+				"unde",
+				"underline-color\t _mixin.scss"
+			],
+			[
+				"pro",
+				"project-work-wrapper-info\t(index.html)"
+			],
+			[
+				"proje",
+				"project-work-wrapper"
+			],
+			[
+				"lef",
+				"lef_4\t(index.html)"
+			],
+			[
+				"bac",
+				"background-color"
+			],
+			[
+				"ri",
+				"rig\t(_mixin.scss)"
+			],
+			[
+				"bg",
+				"bg-color\t main.scss"
+			],
+			[
+				"tea",
+				"text-align"
+			],
+			[
+				"content-",
+				"content--hire-button\t(index.html)"
+			],
+			[
+				"contet",
+				"content--hire\t(index.html)"
+			],
+			[
+				"suff",
+				"suffix_1\t style.css"
+			],
+			[
+				"pre",
+				"prefix_1\t style.css"
+			],
+			[
+				"cle",
+				"clearfix\t style.css"
+			],
+			[
+				"bl",
+				"block"
+			],
+			[
+				"content--",
+				"content--info\t(index.html)"
+			],
+			[
+				"bo",
+				"bold"
+			],
+			[
+				"bottom",
+				"border-bottom"
+			],
+			[
+				"active",
+				"active-color\t main.scss"
+			],
+			[
+				"nth",
+				"nth\tnth() returns a specific item in a list"
+			],
+			[
+				"header",
+				"header-nav\t(index.html)"
+			],
+			[
+				"heade",
+				"header-logo-spec\t(index.html)"
+			],
+			[
+				"contai",
+				"container_12"
+			],
+			[
+				"gri",
+				"grid_3\t style.css"
+			],
+			[
+				"container",
+				"container_12\t(style.css)"
+			],
+			[
+				"fon",
+				"font-awesome\t(_vendor.scss)"
+			],
+			[
+				"fonta",
+				"font-awesome\t(_vendor.scss)"
+			],
+			[
+				"ven",
+				"vendors"
+			],
+			[
+				"hiicon2",
+				"hi-icon-effect-2a\t style.css"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "devsites/portfolio/asites/index.html",
+			"settings":
+			{
+				"buffer_size": 11421,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "devsites/portfolio/asites/assets/css/index.css",
+			"settings":
+			{
+				"buffer_size": 1862,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 345.0,
+		"last_filter": "ecs",
+		"selected_items":
+		[
+			[
+				"ecs",
+				"Run eCSStractor"
+			],
+			[
+				"css",
+				"CSSPrimer: Prime CSS from HTML file"
+			],
+			[
+				"sett",
+				"Preferences: Settings"
+			],
+			[
+				"packa",
+				"Package Control: Install Package"
+			],
+			[
+				"termin",
+				"Terminal View: Open Bash Terminal"
+			],
+			[
+				"ecss",
+				"Run eCSStractor (with BEM Nesting)"
+			],
+			[
+				"ecc",
+				"Run eCSStractor (with BEM Nesting)"
+			],
+			[
+				"remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"unin",
+				"Colorsublime: Uninstall Theme"
+			],
+			[
+				"Package Control: ins",
+				"Package Control: Install Package"
+			],
+			[
+				"pack",
+				"Preferences: Browse Packages"
+			],
+			[
+				"ter",
+				"Terminal View: Open Bash Terminal"
+			],
+			[
+				"remo",
+				"Package Control: Remove Package"
+			],
+			[
+				"ena",
+				"Package Control: Enable Package"
+			],
+			[
+				"disa",
+				"Package Control: Disable Package"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"com",
+				"Compare with..."
+			],
+			[
+				"blade if",
+				"Snippet: Blade @if"
+			],
+			[
+				"blade",
+				"Snippet: Blade @foreach"
+			],
+			[
+				"bladefor",
+				"Snippet: Blade @foreach"
+			],
+			[
+				"comp",
+				"Compare with..."
+			],
+			[
+				"html",
+				"HTMLBeautify"
+			],
+			[
+				"coma",
+				"Compare with..."
+			],
+			[
+				"ht",
+				"HTMLPrettify"
+			],
+			[
+				"bladeinc",
+				"Snippet: Blade @include"
+			],
+			[
+				"setti",
+				"Preferences: Settings"
+			],
+			[
+				"bea",
+				"HTMLBeautify"
+			],
+			[
+				"UI",
+				"UI: Select Theme"
+			],
+			[
+				"font",
+				"File: Open In Browser - Testing Server"
+			],
+			[
+				"set blade",
+				"Set Syntax: Laravel Blade"
+			],
+			[
+				"settin",
+				"Preferences: Settings"
+			],
+			[
+				"view",
+				"View: Toggle Menu"
+			],
+			[
+				"compa",
+				"Compare with..."
+			],
+			[
+				"beayt",
+				"HTMLBeautify"
+			],
+			[
+				"snipper if",
+				"Snippet: {!! Form::file() !!}"
+			],
+			[
+				"validate",
+				"Snippet: Creates a new validator instance with the given arguments."
+			],
+			[
+				"beauty",
+				"HTMLBeautify"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"html ",
+				"HTMLPrettify"
+			],
+			[
+				"beautif",
+				"PHP Coding Standards Fixer: Fix this file (PHP Code Beautifier)"
+			],
+			[
+				"snippet:view",
+				"Snippet: Views"
+			],
+			[
+				"return view",
+				"File: New File Relative to Current View"
+			],
+			[
+				"snippet: section",
+				"Snippet: Blade @section"
+			],
+			[
+				"laravel",
+				"Snippet: Laravel_Tool"
+			],
+			[
+				"resource",
+				"Snippet: Get the fully qualified path to the resources directory."
+			],
+			[
+				"group",
+				"Snippet: Create a Group of Routes"
+			],
+			[
+				"Term",
+				"Terminal View: Open Bash Terminal"
+			],
+			[
+				"term",
+				"Preferences: Terminal View: Color Scheme"
+			],
+			[
+				"color",
+				"UI: Select Color Scheme"
+			],
+			[
+				"terminal",
+				"Preferences: Terminal View: Color Scheme"
+			],
+			[
+				"blade ex",
+				"Snippet: Blade @extends"
+			],
+			[
+				"packa ins",
+				"Package Control: Install Package"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"beaut",
+				"PHP Coding Standards Fixer: Fix this file (PHP Code Beautifier)"
+			],
+			[
+				"select sc",
+				"UI: Select Color Scheme"
+			],
+			[
+				"select theme",
+				"UI: Select Theme"
+			],
+			[
+				"theme",
+				"UI: Select Theme"
+			],
+			[
+				"Package Control: ",
+				"Package Control: Install Package"
+			],
+			[
+				"set blad",
+				"Set Syntax: Laravel Blade"
+			],
+			[
+				"enab",
+				"Package Control: Enable Package"
+			],
+			[
+				"deisab",
+				"SublimeCodeIntel: Disable Plugin"
+			],
+			[
+				"disable",
+				"Package Control: Disable Package"
+			],
+			[
+				"ui",
+				"UI: Select Color Scheme"
+			],
+			[
+				"sche",
+				"Schemr: Next scheme"
+			],
+			[
+				"conver",
+				"Indentation: Convert to Spaces"
+			],
+			[
+				"set: ht",
+				"Set Syntax: HTML"
+			],
+			[
+				"ui sele",
+				"UI: Select Color Scheme"
+			],
+			[
+				"upp",
+				"Convert Case: Upper Case"
+			],
+			[
+				"sele",
+				"UI: Select Color Scheme"
+			],
+			[
+				"te",
+				"Terminal View: Open Bash Terminal"
+			],
+			[
+				"setting",
+				"Preferences: Settings"
+			],
+			[
+				"uis",
+				"UI: Select Color Scheme"
+			],
+			[
+				"prefix",
+				"Autoprefix CSS"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"setcss",
+				"Set Syntax: CSS"
+			],
+			[
+				"setht",
+				"Set Syntax: HTML"
+			],
+			[
+				"t",
+				"Terminal View: Open Bash Terminal"
+			],
+			[
+				"Package Control: remo",
+				"Package Control: Remove Package"
+			],
+			[
+				"variable",
+				"Snippet: $variable"
+			],
+			[
+				"merge",
+				"Merge Variables"
+			],
+			[
+				"pa",
+				"Package Control: Install Package"
+			],
+			[
+				"rem",
+				"Package Control: Remove Package"
+			],
+			[
+				"live",
+				"LiveReload: Enable/disable plug-ins"
+			],
+			[
+				"in",
+				"Package Control: Install Package"
+			],
+			[
+				"coloir",
+				"Colorsublime: Install Theme"
+			],
+			[
+				"open",
+				"Terminal View: Open Bash Terminal"
+			],
+			[
+				"Package Control: in",
+				"Package Control: Install Package"
+			],
+			[
+				"Boxy",
+				"Boxy Theme: Preferences"
+			],
+			[
+				"selec",
+				"UI: Select Color Scheme"
+			],
+			[
+				"wor",
+				"Word Wrap: Toggle"
+			],
+			[
+				"doc",
+				"DocBlockr: Decorate line comment"
+			],
+			[
+				"",
+				"DocBlockr: Reparse comment block"
+			],
+			[
+				"do",
+				"DocBlockr: Decorate line comment"
+			],
+			[
+				"w",
+				"Word Wrap: Toggle"
+			],
+			[
+				"vir",
+				"View In Browser"
+			],
+			[
+				"upda",
+				"Package Control: Upgrade Package"
+			],
+			[
+				"view in",
+				"View: Toggle Open Files in Side Bar"
+			],
+			[
+				"set syntaht",
+				"Set Syntax: HTML"
+			],
+			[
+				"project manager",
+				"Project Manager: Import *.sublime-project File"
+			],
+			[
+				"gitg",
+				"Preferences: GitGutter Key Bindings"
+			],
+			[
+				"pref",
+				"Preferences: Settings"
+			],
+			[
+				"up",
+				"Package Control: Upgrade Package"
+			],
+			[
+				"side",
+				"View: Toggle Side Bar"
+			],
+			[
+				"vi",
+				"View In Browser"
+			],
+			[
+				"Install",
+				"Colorsublime: Install Theme"
+			],
+			[
+				"js ",
+				"CodeFormatter: Format as Javascript Syntax"
+			],
+			[
+				"forma",
+				"CodeFormatter: Format Code"
+			]
+		],
+		"width": 641.0
+	},
+	"console":
+	{
+		"height": 377.0,
+		"history":
+		[
+			"print(\"tes\")",
+			"tes"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/home/abfs87/Workspace/Web/consciousnessdev.github.io",
+		"/home/abfs87/Workspace/Web/consciousnessdev.github.io/devsites",
+		"/home/abfs87/Workspace/Web/consciousnessdev.github.io/devsites/portfolio",
+		"/home/abfs87/Workspace/Web/consciousnessdev.github.io/devsites/portfolio/asites",
+		"/home/abfs87/Workspace/Web/consciousnessdev.github.io/devsites/portfolio/asites/assets",
+		"/home/abfs87/Workspace/Web/consciousnessdev.github.io/devsites/portfolio/asites/assets/css"
+	],
+	"file_history":
+	[
+		"/home/abfs87/Workspace/Web/consciousnessdev.github.io/devsites/portfolio/asites/assets/css/reset.css",
+		"/home/abfs87/Workspace/Web/consciousnessdev.github.io/devsites/portfolio/asites/assets/css/index.css",
+		"/home/abfs87/Workspace/Web/consciousnessdev.github.io/devsites/portfolio/asites/assets/css/index.scss",
+		"/home/abfs87/Workspace/Web/JavaScript30/05 - Flex Panel Gallery/index-START.html",
+		"/home/abfs87/Workspace/Web/JavaScript30/js30day_learn/flexpanel_gallery/index-START.html",
+		"/home/abfs87/Workspace/Web/JavaScript30/js30day_learn/array_cardioday/script.js",
+		"/home/abfs87/Workspace/Web/gmaps_api/index.php",
+		"/home/abfs87/Workspace/Web/blog_lvfw/app/Http/Controllers/Admin/PostController.php",
+		"/home/abfs87/Workspace/Web/blog_lvfw/resources/views/admin/post/edit.blade.php",
+		"/home/abfs87/Workspace/Web/blog_lvfw/resources/views/admin/post/post.blade.php",
+		"/home/abfs87/Workspace/Web/blog_lvfw/resources/views/admin/layouts/head.blade.php",
+		"/home/abfs87/Workspace/Web/blog_lvfw/resources/views/admin/layouts/footer.blade.php",
+		"/home/abfs87/Workspace/Web/blog_lvfw/raw_theme/admin_theme/pages/forms/editors.html",
+		"/home/abfs87/Workspace/Web/blog_lvfw/routes/web.php",
+		"/home/abfs87/Workspace/Web/blog_lvfw/app/Model/user/post.php",
+		"/home/abfs87/Workspace/Web/blog_lvfw/database/migrations/2018_04_13_150447_create_category_posts_table.php",
+		"/home/abfs87/Workspace/Web/blog_lvfw/database/migrations/2018_04_13_150619_create_post_tags_table.php",
+		"/home/abfs87/Workspace/Web/blog_lvfw/database/migrations/2018_04_13_145856_create_posts_table.php",
+		"/home/abfs87/Workspace/Web/blog_lvfw/public/admin_side/bower_components/select2/dist/css/select2.min.css",
+		"/home/abfs87/Workspace/Web/blog_lvfw/raw_theme/admin_theme/pages/forms/advanced.html",
+		"/home/abfs87/Workspace/Web/blog_lvfw/public/admin_side/dist/css/select2.min.css",
+		"/home/abfs87/Workspace/Web/blog_lvfw/public/admin_side/bower_components/select2/dist/js/select2.js",
+		"/home/abfs87/Workspace/Web/blog_lvfw/app/Model/user/tag.php",
+		"/home/abfs87/Workspace/Web/blog_lvfw/app/Model/user/category.php",
+		"/home/abfs87/Workspace/Web/blog_lvfw/resources/views/admin/category/edit.blade.php",
+		"/home/abfs87/Workspace/Web/blog_lvfw/resources/views/admin/tag/edit.blade.php",
+		"/home/abfs87/Workspace/Web/blog_lvfw/app/Http/Controllers/Admin/CategoryController.php",
+		"/home/abfs87/Workspace/Web/blog_lvfw/resources/views/admin/category/category.blade.php",
+		"/home/abfs87/Workspace/Web/blog_lvfw/app/Http/Controllers/Admin/TagController.php",
+		"/home/abfs87/Workspace/Web/blog_lvfw/resources/views/admin/post/show.blade.php",
+		"/home/abfs87/Workspace/Web/blog_lvfw/resources/views/admin/tag/show.blade.php",
+		"/home/abfs87/Workspace/Web/blog_lvfw/resources/views/admin/category/show.blade.php",
+		"/home/abfs87/Workspace/Web/blog_lvfw/resources/views/admin/tag/tag.blade.php",
+		"/run/user/1000/gvfs/sftp:host=192.168.11.1,port=1402,user=root/var/www/html/penunjang/ambulan/gridambulanjpbynoregx.php",
+		"/home/abfs87/Workspace/Web/blog_lvfw/raw_theme/admin_theme/pages/tables/data.html",
+		"/home/abfs87/Workspace/Web/blog_lvfw/resources/views/admin/layouts/app.blade.php",
+		"/home/abfs87/Workspace/Web/blog_lvfw/resources/views/admin/layouts/sidebar.blade.php",
+		"/home/abfs87/Workspace/Web/blog_lvfw/resources/views/admin/layouts/script.blade.php",
+		"/home/abfs87/Workspace/Web/blog_lvfw/resources/views/admin/user/show.blade.php",
+		"/home/abfs87/Workspace/Web/blog_lvfw/resources/views/admin/layouts/messages.blade.php",
+		"/home/abfs87/Workspace/Web/blog_lvfw/resources/views/admin/layouts/errors.blade.php",
+		"/home/abfs87/Workspace/Web/blog_lvfw/resources/views/user_side/app.blade.php",
+		"/home/abfs87/Workspace/Web/blog_lvfw/resources/views/admin/user/create.blade.php",
+		"/home/abfs87/Workspace/Web/blog_lvfw/app/Http/Controllers/Admin/UserController.php",
+		"/home/abfs87/Workspace/Web/blog_lvfw/.editorconfig",
+		"/home/abfs87/Workspace/Web/blog_lvfw/app/Http/Controllers/Admin/HomeController.php",
+		"/home/abfs87/Workspace/Web/blog_lvfw/app/Http/Controllers/User/PostController.php",
+		"/home/abfs87/Workspace/Web/blog_lvfw/app/Http/Controllers/User/HomeController.php",
+		"/home/abfs87/Workspace/Web/blog_lvfw/resources/views/user_side/blog.blade.php",
+		"/home/abfs87/Workspace/Web/blog_lvfw/resources/views/user_side/layouts/nav.blade.php",
+		"/home/abfs87/Workspace/Web/blog_lvfw/app/Http/Controllers/Controller.php",
+		"/home/abfs87/.config/sublime-text-3/Packages/Colorsublime - Themes/Material.tmTheme",
+		"/home/abfs87/Workspace/Web/blog_lvfw/resources/views/admin/home.blade.php",
+		"/home/abfs87/Workspace/Web/blog_lvfw/raw_theme/admin_theme/pages/forms/general.html",
+		"/home/abfs87/Workspace/Web/blog_lvfw/raw_theme/admin_theme/pages/UI/general.html",
+		"/home/abfs87/Workspace/Web/blog_lvfw/public/admin_side/dist/js/pages/dashboard.js",
+		"/home/abfs87/Workspace/Web/blog_lvfw/public/admin_side/dist/css/skins/_all-skins.min.css",
+		"/home/abfs87/Workspace/Web/blog_lvfw/raw_theme/admin_theme/pages/examples/blank.html",
+		"/home/abfs87/Workspace/Web/blog_lvfw/resources/views/admin/layouts/ctrlsidebar.blade.php",
+		"/home/abfs87/Workspace/Web/blog_lvfw/resources/views/admin/layouts/header.blade.php",
+		"/home/abfs87/Workspace/Web/blog_lvfw/raw_theme/admin_theme/index.html",
+		"/home/abfs87/Workspace/Web/blog_lvfw/resources/views/user_side/layouts/header.blade.php",
+		"/home/abfs87/Workspace/Web/blog_lvfw/resources/views/user_side/post.blade.php",
+		"/home/abfs87/Workspace/Web/blog_lvfw/resources/views/user_side/layouts/head.blade.php",
+		"/home/abfs87/Workspace/Web/blog_lvfw/raw_theme/cleanblog_theme/index.html",
+		"/home/abfs87/Workspace/Web/blog_lvfw/app/Model/user/User.php",
+		"/home/abfs87/Workspace/Web/blog_lvfw/app/Model/user/category_post.php",
+		"/home/abfs87/Workspace/Web/blog_lvfw/app/Model/user/post_tag.php",
+		"/home/abfs87/Workspace/Web/blog_lvfw/database/migrations/2018_04_13_150744_create_admins_table.php",
+		"/home/abfs87/Workspace/Web/blog_lvfw/database/migrations/2018_04_13_150958_create_roles_table.php",
+		"/home/abfs87/Workspace/Web/blog_lvfw/database/migrations/2018_04_13_151045_create_admin_roles_table.php",
+		"/home/abfs87/Workspace/Web/blog_lvfw/resources/views/user_side/layouts/navheader.blade.php",
+		"/home/abfs87/Workspace/Web/blog_lvfw/database/migrations/2018_04_13_150349_create_categories_table.php",
+		"/home/abfs87/Workspace/Web/blog_lvfw/database/migrations/2018_04_13_150258_create_tags_table.php",
+		"/home/abfs87/Workspace/Web/blog_lvfw/raw_theme/cleanblog_theme/post.html",
+		"/home/abfs87/Workspace/Web/blog_lvfw/resources/views/user_side/layouts/footer.blade.php",
+		"/tmp/fz3temp-1/script.js",
+		"/home/abfs87/Workspace/Web/adminlv/routes/web.php",
+		"/home/abfs87/Workspace/Web/adminlv/app/Http/Controllers/AdminRegisterController.php",
+		"/home/abfs87/Workspace/Web/adminlv/app/Http/Controllers/Auth/RegisterController.php",
+		"/home/abfs87/Workspace/Web/adminlv/app/AdminUser.php",
+		"/home/abfs87/Workspace/Web/adminlv/resources/views/registadmin/create.blade.php",
+		"/home/abfs87/Workspace/Web/adminlv/public/Admin/bower_components/ckeditor/ckeditor.js",
+		"/home/abfs87/Workspace/Web/adminlv/progress.task",
+		"/home/abfs87/Workspace/Web/adminlv/resources/views/admin/require.blade.php",
+		"/home/abfs87/Workspace/Web/adminlv/resources/views/admin/login.blade.php",
+		"/home/abfs87/Workspace/Web/adminlv/database/migrations/2018_04_10_123659_create_admin_users_table.php",
+		"/home/abfs87/Workspace/Web/adminlv/resources/views/registadmin/base.blade.php",
+		"/home/abfs87/Workspace/Web/adminlv/resources/views/admin/root.blade.php",
+		"/home/abfs87/Workspace/Web/adminlv/database/migrations/2018_04_08_231002_create_admin_users_table.php",
+		"/home/abfs87/Workspace/Web/adminlv/app/Http/Controllers/AdminDashboardController.php",
+		"/run/user/1000/gvfs/sftp:host=192.168.11.1,port=1402,user=root/var/www/html/index.php",
+		"/run/user/1000/gvfs/sftp:host=192.168.11.1,port=1402,user=root/var/www/html/monitoring/ranap/script.js",
+		"/run/user/1000/gvfs/sftp:host=192.168.11.1,port=1402,user=root/var/www/html/penunjang/laboratorium/script.js",
+		"/home/abfs87/Workspace/Web/adminlv/app/Http/Controllers/AdminLoginController.php",
+		"/home/abfs87/Workspace/Web/adminlv/public/Admin/pages/examples/login.html",
+		"/home/abfs87/Workspace/Web/adminlv/.editorconfig",
+		"/home/abfs87/Workspace/Web/adminlv/app/Http/Controllers/HomeController.php",
+		"/home/abfs87/Workspace/Web/adminlv/resources/views/admin/admin.blade.php",
+		"/home/abfs87/Workspace/Web/adminlv/public/Admin/pages/examples/register.html",
+		"/home/abfs87/Workspace/Web/adminlv/.env",
+		"/home/abfs87/Workspace/Web/skfun/Sass CSS/SASS LevelUp Tuts/15.For Loops/css/style.scss",
+		"/home/abfs87/Workspace/Web/skfun/Sass CSS/SASS LevelUp Tuts/15.For Loops/index.html",
+		"/home/abfs87/Workspace/Web/skfun/Sass CSS/SASS LevelUp Tuts/15.For Loops/css/style.css",
+		"/home/abfs87/Workspace/Web/skfun/Sass CSS/SASS LevelUp Tuts/14.Output Style/css/style.scss",
+		"/home/abfs87/Workspace/Web/skfun/Sass CSS/SASS LevelUp Tuts/14.Output Style/sass output.txt",
+		"/home/abfs87/Workspace/Web/skfun/Sass CSS/SASS LevelUp Tuts/14.Output Style/css/style.css",
+		"/home/abfs87/Workspace/Web/skfun/Sass CSS/SASS LevelUp Tuts/13.Build Your Own Function - Part 3/css/style.scss",
+		"/home/abfs87/Workspace/Web/skfun/Sass CSS/SASS LevelUp Tuts/12.Build Your Own Function - Part 2/css/style.scss",
+		"/home/abfs87/Workspace/Web/skfun/Sass CSS/SASS LevelUp Tuts/12.Build Your Own Function - Part 2/index.html",
+		"/home/abfs87/Workspace/Web/skfun/Sass CSS/SASS LevelUp Tuts/12.Build Your Own Function - Part 2/css/style.css",
+		"/home/abfs87/Workspace/Web/skfun/Sass CSS/SASS LevelUp Tuts/11.Build Your Own Function/css/style.scss",
+		"/home/abfs87/Workspace/Web/skfun/Sass CSS/SASS LevelUp Tuts/11.Build Your Own Function/css/style.css",
+		"/home/abfs87/Workspace/Web/skfun/Sass CSS/SASS LevelUp Tuts/10.Built in Functions/css/style.scss",
+		"/home/abfs87/Workspace/Web/skfun/Sass CSS/SASS LevelUp Tuts/8.Using Lists and @each/index.html",
+		"/home/abfs87/Workspace/Web/skfun/Sass CSS/SASS LevelUp Tuts/8.Using Lists and @each/css/style.scss",
+		"/home/abfs87/Workspace/Web/skfun/Sass CSS/SASS LevelUp Tuts/8.Using Lists and @each/css/style.css",
+		"/home/abfs87/Workspace/pentest/QRLJacking/QrlJacking-Framework/QRLJacker.py",
+		"/home/abfs87/Workspace/Web/skfun/Sass CSS/SASS LevelUp Tuts/7.Import & Parent Reference/css/style.scss",
+		"/home/abfs87/Workspace/Web/skfun/Sass CSS/SASS LevelUp Tuts/7.Import & Parent Reference/index.html",
+		"/home/abfs87/Workspace/Web/skfun/Sass CSS/SASS LevelUp Tuts/6.Creating Configurable Shapes Using Mixins/index.html",
+		"/home/abfs87/Workspace/Web/skfun/Sass CSS/SASS LevelUp Tuts/6.Creating Configurable Shapes Using Mixins/css/style.scss",
+		"/home/abfs87/Workspace/Web/skfun/Sass CSS/SASS LevelUp Tuts/6.Creating Configurable Shapes Using Mixins/css/style.css",
+		"/home/abfs87/Workspace/Web/skfun/Sass CSS/SASS LevelUp Tuts/5.Selector Inheritance/css/style.scss",
+		"/home/abfs87/Workspace/Web/skfun/Sass CSS/SASS LevelUp Tuts/5.Selector Inheritance/index.html",
+		"/home/abfs87/Workspace/Web/skfun/Sass CSS/SASS LevelUp Tuts/4.Using Mixins/index.html",
+		"/home/abfs87/Workspace/Web/skfun/Sass CSS/SASS LevelUp Tuts/4.Using Mixins/css/style.scss",
+		"/home/abfs87/Workspace/Web/skfun/Sass CSS/SASS LevelUp Tuts/3.Nesting Your Sass/index.html"
+	],
+	"find":
+	{
+		"height": 37.0
+	},
+	"find_in_files":
+	{
+		"height": 275.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"--",
+			"id=",
+			"id",
+			"panel.op"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "devsites/portfolio/asites/index.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 11421,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								991,
+								991
+							]
+						],
+						"settings":
+						{
+							"auto_complete": false,
+							"auto_complete_triggers":
+							[
+								{
+									"characters": "<",
+									"selector": "text.html"
+								},
+								{
+									"characters": ".#",
+									"selector": "text.html"
+								},
+								{
+									"characters": ".#",
+									"selector": "text.html"
+								},
+								{
+									"characters": ".#",
+									"selector": "text.html"
+								},
+								{
+									"characters": ".#",
+									"selector": "text.html"
+								}
+							],
+							"editorconfig": true,
+							"rulers":
+							[
+								23.9,
+								24.2
+							],
+							"syntax": "Packages/HTML/HTML.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 558.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "devsites/portfolio/asites/assets/css/index.css",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1862,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"auto_complete_triggers":
+							[
+								{
+									"characters": "<",
+									"selector": "text.html"
+								},
+								{
+									"characters": ".#",
+									"selector": "text.html"
+								},
+								{
+									"characters": ".#",
+									"selector": "text.html"
+								}
+							],
+							"color_scheme": "Packages/User/Color Highlighter/themes/Better_JS.tmTheme",
+							"editorconfig": true,
+							"rulers":
+							[
+							],
+							"syntax": "Packages/CSS/CSS.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 1302.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				}
+			]
+		},
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"file": "devsites/portfolio/asites/Wireframe.png",
+					"semi_transient": true,
+					"stack_index": 1,
+					"type": "image"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 37.0
+	},
+	"input":
+	{
+		"height": 68.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			],
+			[
+				0,
+				1,
+				1,
+				2
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			0.5,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.CSS Extended Completions":
+	{
+		"height": 0.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "arc_dev.sublime-project",
+	"replace":
+	{
+		"height": 70.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"postcon",
+				"app/Http/Controllers/Admin/PostController.php"
+			],
+			[
+				"select2.min.css",
+				"public/admin_side/dist/css/select2.min.css"
+			],
+			[
+				"select2",
+				"public/admin_side/bower_components/select2/dist/js/select2.js"
+			],
+			[
+				"e/admin_theme/pages/forms/advanced.html",
+				"raw_theme/admin_theme/pages/forms/advanced.html"
+			],
+			[
+				"tag/show",
+				"resources/views/admin/tag/show.blade.php"
+			],
+			[
+				"tagcon",
+				"app/Http/Controllers/Admin/TagController.php"
+			],
+			[
+				"data.h",
+				"raw_theme/admin_theme/pages/tables/data.html"
+			],
+			[
+				"layouts/foo",
+				"resources/views/admin/layouts/footer.blade.php"
+			],
+			[
+				"layouts/head",
+				"resources/views/admin/layouts/head.blade.php"
+			],
+			[
+				"data.",
+				"raw_theme/admin_theme/pages/tables/data.html"
+			],
+			[
+				"app.blade",
+				"resources/views/admin/layouts/app.blade.php"
+			],
+			[
+				"tagco",
+				"app/Http/Controllers/Admin/TagController.php"
+			],
+			[
+				"admin/post.blade",
+				"resources/views/admin/post/post.blade.php"
+			],
+			[
+				"tag.ba",
+				"resources/views/admin/tag/tag.blade.php"
+			],
+			[
+				"app/model/user/category",
+				"app/Model/user/category.php"
+			],
+			[
+				"app/model/user/post",
+				"app/Model/user/post.php"
+			],
+			[
+				"categoryc",
+				"app/Http/Controllers/Admin/CategoryController.php"
+			],
+			[
+				"sidebar.blade",
+				"resources/views/admin/layouts/sidebar.blade.php"
+			],
+			[
+				"postcont",
+				"app/Http/Controllers/Admin/PostController.php"
+			],
+			[
+				"forms/gene",
+				"raw_theme/admin_theme/pages/forms/general.html"
+			],
+			[
+				"general",
+				"raw_theme/admin_theme/pages/UI/general.html"
+			],
+			[
+				"admin_side/dist/js/pages/dashboard.js",
+				"public/admin_side/dist/js/pages/dashboard.js"
+			],
+			[
+				"_all-skins.min.css",
+				"public/admin_side/dist/css/skins/_all-skins.min.css"
+			],
+			[
+				"editors.html",
+				"raw_theme/admin_theme/pages/forms/editors.html"
+			],
+			[
+				"blank",
+				"raw_theme/admin_theme/pages/examples/blank.html"
+			],
+			[
+				"footer",
+				"resources/views/admin/layouts/footer.blade.php"
+			],
+			[
+				"web.ph",
+				"routes/web.php"
+			],
+			[
+				"post.",
+				"raw_theme/cleanblog_theme/post.html"
+			],
+			[
+				"migration/",
+				"database/migrations/2018_04_10_123659_create_admin_users_table.php"
+			],
+			[
+				"",
+				"3.Nesting Your Sass/css/style.css"
+			],
+			[
+				"inde",
+				"index.html"
+			],
+			[
+				"sty",
+				"style/style.css"
+			],
+			[
+				"cata",
+				"catatan.md"
+			],
+			[
+				"rese",
+				"style/reset.css"
+			],
+			[
+				"font",
+				"style/font-awesome.min.css"
+			],
+			[
+				"st",
+				"style/style.css"
+			],
+			[
+				"style",
+				"style.css"
+			],
+			[
+				"comp",
+				"stylesheets/vendors/IconHoverEffects/js/component.js"
+			],
+			[
+				"proje",
+				"Sass CSS/project_sass/index.html"
+			],
+			[
+				"project_sass/sty",
+				"Sass CSS/project_sass/style.css"
+			],
+			[
+				"sass/in",
+				"Sass CSS/project_sass/index.html"
+			],
+			[
+				"sass/index",
+				"Sass CSS/project_sass/index.html"
+			],
+			[
+				"note",
+				"Sass CSS/project_sass/sass.note"
+			],
+			[
+				"css",
+				"Sass CSS/style.css"
+			],
+			[
+				"29/",
+				"Javascript/Dasar Pemrograman dengan Javascript - Web Unpas/29-PARAMETER & ARGUMENT PADA JAVASCRIPT/script.js"
+			],
+			[
+				"javas",
+				"Javascript/Belajar javascript untuk pemula/index.html"
+			],
+			[
+				"latihancss3/sty",
+				"Mengenal HTML5 & Mulai belajar CSS3/Mulai belajar CSS3/latihan CSS3/assets/css/style.css"
+			],
+			[
+				"latihan",
+				"Mengenal HTML5 & Mulai belajar CSS3/Mulai belajar CSS3/latihan CSS3/style.css"
+			],
+			[
+				"latihancss3/s",
+				"Mengenal HTML5 & Mulai belajar CSS3/Mulai belajar CSS3/latihan CSS3/style.css"
+			],
+			[
+				"style.c",
+				"Mengenal HTML5 & Mulai belajar CSS3/Mengenal HTML5/latihan HTML5/css/style.css"
+			],
+			[
+				"about",
+				"Mengenal HTML5 & Mulai belajar CSS3/Mengenal HTML5/latihan HTML5/about.html"
+			],
+			[
+				"kont",
+				"HTML & CSS/latihan/kontak.html"
+			],
+			[
+				"prof",
+				"HTML & CSS/latihan/profil.html"
+			],
+			[
+				"member",
+				"member.html"
+			],
+			[
+				"sk",
+				"skripauth.php"
+			],
+			[
+				"heade",
+				"scratch/header.php"
+			],
+			[
+				"foo",
+				"scratch/footer.php"
+			],
+			[
+				"login",
+				"scratch/login.php"
+			],
+			[
+				"in",
+				"index.php"
+			],
+			[
+				"sc",
+				"js/script.js"
+			],
+			[
+				"ind",
+				"index.php"
+			],
+			[
+				"dum",
+				"dummy.php"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 265.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
