@@ -152,8 +152,14 @@ table {
 /*
   MOBILE FIRST SET DISPLAY TO IPHONE 5
 */
+
 body {
   font-family: Comfortaa;
+  background: url('../assets/img/background_content.jpg') no-repeat center center; 
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
 }
 
 header {
@@ -333,15 +339,23 @@ header {
   right: 0;
 }
 
+.content-container__bg {
+  
+}
+
+.content-container__field {
+
+}
+
 .content-container__card {
 }
 
-.card__list {
-}
+.card__list {}
 
 .card__item {
   margin: 75px 25px;
   border-radius: 5px;
+  background: white;
 }
 
 .card__container {
@@ -430,6 +444,7 @@ header {
 .statistic__label {
   padding: 30px;
   text-align: justify;
+  background: rgba(255,255,255,0.7);
 }
 
 .label__top {
@@ -449,19 +464,19 @@ header {
   line-height: 1.5;
 }
 
-.statistic__data {
-}
+.statistic__data {}
 
 .data__grid {
 }
 
 .grid__container {
   display: flex;
-  padding: 30px;
-  margin: 0 10px;
+  padding: 15px;
+  margin: 30px 10px;
   align-content: center;
   border-bottom: 1px solid rgba(99, 99, 99, 0.5);
   align-items:  center;
+  background: rgba(255,255,255,0.7);
 }
 
 .grid__container:last-child {
