@@ -439,12 +439,12 @@ header {
 }
 
 .statistic__container {
+  background: rgba(255,255,255,0.7);
 }
 
 .statistic__label {
   padding: 30px;
   text-align: justify;
-  background: rgba(255,255,255,0.7);
 }
 
 .label__top {
@@ -476,7 +476,6 @@ header {
   align-content: center;
   border-bottom: 1px solid rgba(99, 99, 99, 0.5);
   align-items:  center;
-  background: rgba(255,255,255,0.7);
 }
 
 .grid__container:last-child {
