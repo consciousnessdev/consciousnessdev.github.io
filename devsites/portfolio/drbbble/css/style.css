@@ -2,135 +2,15 @@
    v2.0 | 20110126
    License: none (public domain)
 */
-html,
-body,
-div,
-span,
-applet,
-object,
-iframe,
-h1,
-h2,
-h3,
-h4,
-h5,
-h6,
-p,
-blockquote,
-pre,
-a,
-abbr,
-acronym,
-address,
-big,
-cite,
-code,
-del,
-dfn,
-em,
-img,
-ins,
-kbd,
-q,
-s,
-samp,
-small,
-strike,
-strong,
-sub,
-sup,
-tt,
-var,
-b,
-u,
-i,
-center,
-dl,
-dt,
-dd,
-ol,
-ul,
-li,
-fieldset,
-form,
-label,
-legend,
-table,
-caption,
-tbody,
-tfoot,
-thead,
-tr,
-th,
-td,
-article,
-aside,
-canvas,
-details,
-embed,
-figure,
-figcaption,
-footer,
-header,
-hgroup,
-menu,
-nav,
-output,
-ruby,
-section,
-summary,
-time,
-mark,
-audio,
-video {
-  margin: 0;
-  padding: 0;
-  border: 0;
-  font-size: 100%;
-  font: inherit;
-  vertical-align: baseline;
-}
+html,body,div,span,applet,object,iframe,h1,h2,h3,h4,h5,h6,p,blockquote,pre,a,abbr,acronym,address,big,cite,code,del,dfn,em,img,ins,kbd,q,s,samp,small,strike,strong,sub,sup,tt,var,b,u,i,center,dl,dt,dd,ol,ul,li,fieldset,form,label,legend,table,caption,tbody,tfoot,thead,tr,th,td,article,aside,canvas,details,embed,figure,figcaption,footer,header,hgroup,menu,nav,output,ruby,section,summary,time,mark,audio,video{margin:0;padding:0;border:0;font-size:100%;font:inherit;vertical-align:baseline;}
 
 /* HTML5 display-role reset for older browsers */
-article,
-aside,
-details,
-figcaption,
-figure,
-footer,
-header,
-hgroup,
-menu,
-nav,
-section {
-  display: block;
-}
-
-body {
-  line-height: 1;
-}
-
-ol,
-ul {
-  list-style: none;
-}
-
-blockquote,
-q {
-  quotes: none;
-}
-
-blockquote:before,
-blockquote:after,
-q:before,
-q:after {
-  content: '';
-  content: none;
-}
-
-table {
-  border-collapse: collapse;
-  border-spacing: 0;
+article,aside,details,figcaption,figure,footer,header,hgroup,menu,nav,section{display:block;}
+body{line-height:1;}
+ol,ul{list-style:none;}
+blockquote,q{quotes:none;}
+blockquote:before,blockquote:after,q:before,q:after{content:'';content:none;}
+table{border-collapse:collapse;border-spacing:0;
 }
 
 /*RESET*/
@@ -530,4 +410,109 @@ header {
 .icon--softorange {color: darkorange;}
 
 .fa-toggle-on {
+}
+
+/* Media Query Lebih dari 1024px */
+@media only screen and (min-width: 1024px) { 
+  .header-navbar {
+  }
+
+  .navbar--transparent {
+  }
+
+  .header-navbar__container {display: flex;align-items:  center;justify-content: space-between;}
+
+  .navbar__logo {
+  }
+
+  .navbar-logo__container {
+  }
+
+  .logo__image {
+  }
+
+  .logo__label {
+  }
+
+  .label--lightgrey {
+  }
+
+  .navbar__menu {
+      width: 40%;
+  }
+
+  .navbar-menu__container {}
+
+  .list__menu {
+  }
+
+  .list__item {
+  }
+
+  .list--lightgrey {
+  }
+
+  .list--bold {
+  }
+
+  .container {width: 80%;margin: 0 auto;}
+
+  .content-header {display: flex;align-items: flex-start;}
+
+  .content-header__left {width: 30%;margin-top: 70px;}
+
+  .left__label {
+  text-align: left;
+  font-size:  26pt;
+  font-weight: bold;
+  letter-spacing: 3px;
+  line-height: 1.5;
+  }
+
+  .left__info {
+  text-align: left;
+  }
+
+  .info--darkgrey {
+  }
+
+  .left__button {
+  }
+
+  .button__container {
+  justify-content: left;
+  }
+
+  .button__one {
+  margin: 0 10px;
+  }
+
+  .button--green {
+  }
+
+  .label--white {
+  }
+
+  .button__arrow {
+  }
+
+  .button__two {
+  margin: 0 10px;
+  }
+
+  .button--white {
+  }
+
+  .label--darkgrey {
+  }
+
+  .content-header__right {width: 70%;}
+
+  .header__container {
+  }
+
+  .right__image img {
+    width: 100%;
+  }
+
 }
