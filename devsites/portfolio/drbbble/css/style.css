@@ -244,6 +244,7 @@ header {
   flex-direction: column;
   align-items: center;
   align-content: center;
+  margin: 35px 0;
 }
 
 .card__logo {
@@ -414,6 +415,8 @@ header {
 
 /* Media Query Lebih dari 1024px */
 @media only screen and (min-width: 1024px) { 
+  header {
+  }
   .header-navbar {
   }
 
@@ -455,7 +458,7 @@ header {
   .list--bold {
   }
 
-  .container {width: 80%;margin: 0 auto;}
+  .container {width: 80%;height: 645px;margin: 0 auto;}
 
   .content-header {display: flex;align-items: flex-start;}
 
@@ -514,5 +517,110 @@ header {
   .right__image img {
     width: 100%;
   }
+  .content-container__bg {
+}
+.content-container__field {
+    display: flex;
+    flex-direction:  column;
+}
+.content-container__card {
+    display: flex;
+    justify-content:  space-around;
+}
+.card__list {margin-top: -17%;}
+
+.card__list ul {
+  display: flex;
+  width: 75%;
+  align-items: center;
+  margin: 0 auto;
+}
+
+.card__item {}
+.card--shadow {
+}
+.card__container {
+}
+.card__logo {}
+.logo__container {
+}
+.fa {
+}
+.fa-folder-o {
+}
+.logo__folderclose {
+}
+.logo--lightblue {
+}
+.card__label {
+}
+.label--darkgrey {
+}
+.card__info {
+}
+.fa-mobile-phone {
+}
+.logo__mobilephone {
+}
+.logo--lightpink {
+}
+.fa-shopping-bag {
+}
+.logo__shoppingbag {
+}
+.logo--lightorange {
+}
+.content-container__statistic {
+}
+.statistic__container {
+}
+.statistic__label {
+}
+.label__top {
+}
+.label--purple {
+}
+.label__info {
+}
+.statistic__data {
+}
+.data__grid {
+}
+.grid__container {
+}
+.grid__icon {
+}
+.icon--shadow {
+}
+.icon__container {
+}
+.fa-leaf {
+}
+.icon--blue {
+}
+.grid__label {
+}
+.grid__number {
+}
+.grid__info {
+}
+.fa-music {
+}
+.icon--orange {
+}
+.fa-tablet {
+}
+.icon--pink {
+}
+.fa-registered {
+}
+.icon--darkblue {
+}
+.fa-object-ungroup {
+}
+.icon--softorange {
+}
+.fa-toggle-on {
+}
 
 }
