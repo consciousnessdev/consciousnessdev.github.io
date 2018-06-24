@@ -1,170 +1,264 @@
-#container {width: 85%;margin: 0 auto;}
-.container-header{padding: 30px 80px;background-color:  blue;}
-.header--grey {
-}
-.header__bar {background-color: red;display: flex;justify-content: space-between;}
-.header-bar__logo {
-}
-.header-bar__menu {}
-.button__support {
-}
-.button__login.button__darkgrey {
-}
-.header__content {
-}
-.header-content__par {
-}
-.par__header {
-}
-.par__sub {
-}
-.par__container {
-}
-.par__list {
-}
-.par__item {
-}
-.par__btn {
-}
-.par-button__main {
-}
-.button--lightred {
-}
-.par-button__ext {
-}
-.button--lightgrey {
-}
-.header-content__img {
-}
-.container-main {
-}
-.container-main__bar {
-}
-.main__logo {
-}
-.main__menu {
-}
-.menu__list {
-}
-.menu__item {
-}
-.button__main {
-}
-.button--lightred {
-}
-.container-main__content {
-}
-.content__intro {
-}
-.intro__row {
-}
-.intro__info {
-}
-.intro__top {
-}
-.top--lightred {
-}
-.intro__header {
-}
-.header--deepblue {
-}
-.intro__par {
-}
-.intro__img {
-}
-.intro__circle {
-}
-.par {
-}
-.info {
-}
-.content__service {
-}
-.service__main {
-}
-.main--softblue {
-}
-.service__item {
-}
-.service__top {
-}
-.top--lightred {
-}
-.service__header {
-}
-.header--deepblue {
-}
-.service__par {
-}
-.service__img {
-}
-.content__testimony {
-}
-.testimony--softblue {
-}
-.testimony__main {
-}
-.testimony__item {
-}
-.testimony__vid {
-}
-.testimony__header {
-}
-.testimony__par {
-}
-.par--lightsoftblue {
-}
-.content__projects {
-}
-.projects__main {
-}
-.main--softblue {
-}
-.projects__item {
-}
-.projects__info {
-}
-.projects__top {
-}
-.top--lightred {
-}
-.projects__header {
-}
-.header--deepblue {
-}
-.projects__par {
-}
-.projects__img {
-}
-.projects__top {
-}
-.top--lightred {
-}
-.projects__button {
-}
-.button__big {
-}
-.button--lightred {
-}
-.button__info {
-}
-.info--lightsoftblue {
-}
-.container-footer {
-}
-.footer--grey {
-}
-.container-footer__bar {
-}
-.footer__contact {
-}
-.contact__container {
-}
-.contact__list {
-}
-.contact__item {
-}
-.footer__menu {
-}
-.menu__container {
+@font-face {
+  font-family: Lora;
+  src: url('../fonts/Lora-Regular.ttf');
+}
+
+@font-face {
+  font-family: LoraBold;
+  src: url('../fonts/Lora-Bold.ttf');
+}
+
+body {
+  font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
+}
+
+/* Desktop View */
+@media only screen and (min-width: 1024px){
+  #container {width: 85%;margin: 0 auto;}
+  .container-header{padding: 0 80px;}
+  .header--grey {
+    background-color: #8B999F;
+    color: #fff;
+  }
+  .header__bar {display: flex;justify-content: space-between;margin-bottom: 50px;padding-top: 30px;}
+  .header-bar__logo {
+    display: flex;
+    align-items:  center;
+    flex-direction: row;
+    width: 15%;
+    justify-content: space-around;
+}
+
+  .header-bar__logo {}
+  .logo__image {
+
+  }
+  .logo__image img{
+    width: 40px;
+    height: auto;
+  }
+  .logo__label {
+    font-weight: bold;
+    font-size: 17pt;
+  }
+
+  .header-bar__menu {
+    width: 20%;
+    display: flex;
+    align-items:  center;
+    align-content:  center;
+    font-weight: bold;
+    justify-content:  space-around;
+    font-size: 10pt;
+}
+  .button__support {
+  }
+  .button__login {
+    cursor: pointer;
+    height: 30px;
+    line-height: 30px;
+    width: 75px;
+    text-align: center;
+    border-radius: 30px;
+  }
+  .button--darkgrey {
+    background-color: #7D8C93;
+  }
+  .header__content {
+  display: flex;
+  }
+  .header-content__par {
+  width: 50%;
+  }
+  .par__header {
+  font-size: 39pt;
+  font-family: Lora;
+  margin: 100px 0px 15px 0px;
+  }
+  .par__sub {
+  font-size: 20.5pt;
+  font-family: Calibri;
+  }
+  .par__container {
+  margin: 10px 0;
+  }
+  .par__list {
+  list-style-type: disc;
+  list-style-position: inside;
+  }
+  .par__item {
+  }
+  .par__item span{
+    position: relative;
+    font-size: 11pt;
+    left: -10px;
+    font-weight: bold;
+    line-height: 1.5;
+  }
+  .par__btn {
+  margin: 25px 0;
+  display: flex;
+  height: 40px;
+  justify-content:  space-between;
+  width: 70%;
+  }
+  .par-button__main {
+  width: 175px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border-radius: 20px;
+  font-weight:  bold;
+  font-size: 10pt;
+  }
+  .button--lightred {
+    background-color: #FC0D1B;
+  }
+  .par-button__ext {
+  width: 155px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border-radius: 20px;
+  font-weight:  bold;
+  font-size: 10pt;
+  }
+  .button--lightgrey {
+    background-color: #B8BFC1;
+  }
+  .header-content__img {
+  width: 50%;
+  display: flex;
+  }
+  .header-content__img img {margin: 0 auto;}
+  .container-main {
+  }
+  .container-main__bar {
+  }
+  .main__logo {
+  }
+  .main__menu {
+  }
+  .menu__list {
+  }
+  .menu__item {
+  }
+  .button__main {
+  }
+  
+  .container-main__content {
+  }
+  .content__intro {
+  }
+  .intro__row {
+  }
+  .intro__info {
+  }
+  .intro__top {
+  }
+  .top--lightred {
+  }
+  .intro__header {
+  }
+  .header--deepblue {
+  }
+  .intro__par {
+  }
+  .intro__img {
+  }
+  .intro__circle {
+  }
+  .par {
+  }
+  .info {
+  }
+  .content__service {
+  }
+  .service__main {
+  }
+  .main--softblue {
+  }
+  .service__item {
+  }
+  .service__top {
+  }
+  .top--lightred {
+  }
+  .service__header {
+  }
+  .header--deepblue {
+  }
+  .service__par {
+  }
+  .service__img {
+  }
+  .content__testimony {
+  }
+  .testimony--softblue {
+  }
+  .testimony__main {
+  }
+  .testimony__item {
+  }
+  .testimony__vid {
+  }
+  .testimony__header {
+  }
+  .testimony__par {
+  }
+  .par--lightsoftblue {
+  }
+  .content__projects {
+  }
+  .projects__main {
+  }
+  .main--softblue {
+  }
+  .projects__item {
+  }
+  .projects__info {
+  }
+  .projects__top {
+  }
+  .top--lightred {
+  }
+  .projects__header {
+  }
+  .header--deepblue {
+  }
+  .projects__par {
+  }
+  .projects__img {
+  }
+  .projects__top {
+  }
+  .top--lightred {
+  }
+  .projects__button {
+  }
+  .button__big {
+  }
+
+  .button__info {
+  }
+  .info--lightsoftblue {
+  }
+  .container-footer {
+  }
+  .footer--grey {
+  }
+  .container-footer__bar {
+  }
+  .footer__contact {
+  }
+  .contact__container {
+  }
+  .contact__list {
+  }
+  .contact__item {
+  }
+  .footer__menu {
+  }
+  .menu__container {
+  }
 }
