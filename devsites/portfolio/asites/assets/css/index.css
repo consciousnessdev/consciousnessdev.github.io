@@ -340,25 +340,41 @@ body {
   text-align: center;
   }
   .content__testimony {
-  margin-top: 120px;
-  padding-bottom: 90px;
+  margin-top: 90px;
+  padding-bottom: 60px;
   border-bottom: 1px solid rgb(217,221,223);
   }
 
-.content__testimony.testimony--softblue {}
-  .testimony--softblue {
+  .testimony--softgray {
+    color: #8B999F;
   }
   .testimony__main {
+  font-size: 26pt;
+  margin: 60px 0;
+  text-align: center;
+  }
+  .testimony__list {
+    display: flex;
+    justify-content: space-between;
   }
   .testimony__item {
+  text-align: center;
   }
   .testimony__vid {
   }
-  .testimony__header {
+  .testimony__label {
+  margin: 20px;
   }
+  .testimony__header {
+  font-size: 14pt;
+  }
+  
   .testimony__par {
+  font-size: 10pt;
+  line-height: 2;
   }
   .par--lightsoftblue {
+    color: #B9C0C4;
   }
   .content__projects {
   margin-top: 120px;
