@@ -472,9 +472,20 @@ body {
   .contact__item {
   }
   .footer__menu {
+  width: 40%;
+  margin: 0 auto;
   }
   .menu__container {
   }
   footer {
+  height: 190px;
+  display: flex;
+  align-items: center;
+  background-color: #8B999F;
+  }
+  .menu__footer {cursor: pointer;}
+
+  .list--white {
+    color: white;
   }
 }
