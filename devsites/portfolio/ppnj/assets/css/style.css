@@ -1,0 +1,25 @@
+.header-content__container {
+	height: 170px;
+    margin-bottom: -60px;
+}
+
+.nav-link {
+	height: 80px;
+	width: 100px;
+	padding: 0;
+}
+
+.icon--md {
+	font-size: 20pt;
+}
+
+.nav--padding {
+	padding-right: 3px;
+	padding-left: 3px;
+}
+
+.pane__layout {
+	border: solid 1px #E6E6E6;
+	border-radius: 3px;
+	background-color: #fff;
+}
