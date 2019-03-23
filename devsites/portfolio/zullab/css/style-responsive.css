@@ -1,0 +1,507 @@
+@media screen and (min-width: 320px)
+  and (max-width: 479px){
+
+    .img-content {
+      height: 420px;
+    }
+
+    #img-header {
+      -webkit-background-size: 110px;
+      background-size: 110px;
+    }
+    
+    .intro-content {
+      margin: 0;
+    }
+
+    .intro-content h1 {
+      font-size: 22pt;
+      line-height: 2.5;
+    }
+
+    .intro-content p {
+      font-size: 11pt;
+      line-height: 2;
+    }
+    
+    #service {
+      height: 100%;
+    }
+    
+    #service-header {
+      padding: 5% 5% 0 5%;
+    }
+
+    .hi-icon8 {
+      display: inline-block;
+      font-size: 0px;
+      cursor: pointer;
+      width: 76px;
+      height: 76px;
+      border-radius: 50%;
+      text-align: center;
+      position: relative;
+      z-index: 1;
+      color: #000;
+    }
+
+    .hi-icon8:before {
+      font-family: 'fontawesome';
+      speak: none;
+      font-size: 36px;
+      line-height: 76px;
+      font-style: normal;
+      font-weight: normal;
+      font-variant: normal;
+      text-transform: none;
+      display: block;
+      -webkit-font-smoothing: antialiased;
+    }
+    
+    #service-header h1 {
+      font-size: 18pt;
+      line-height: 1.5;
+    }
+
+    #service-header p {
+      padding: 0 5% 0 5%;
+    }    
+
+    #service-content {
+      padding: 0% 5% 10% 5%;
+    }
+
+    .contact-header {
+      margin-bottom: 20px;
+      padding: 5%;
+
+    }
+
+    .contact-header h1{
+      font-size: 18pt;
+      line-height: 1.5;
+    }
+}
+
+@media screen and (min-width: 480px)
+  and (max-width: 599px){
+  
+  /*Media Queries ini untuk landscapenya 320px x 480px*/
+  #img-header {
+    -webkit-background-size: 75px;
+    background-size: 75px;
+  }
+  .img-content {
+    height: 270px;
+  }
+
+  #nav-header {
+    position: relative;
+    text-align: center;
+    margin-top: 25px;
+    margin-bottom: 15px;
+  }
+
+
+  .hi-icon {
+    display: inline-block;
+    font-size: 0px;
+    cursor: pointer;
+    width: 25px;
+    height: 25px;
+    border-radius: 50%;
+    text-align: center;
+    position: relative;
+    z-index: 1;
+    color: #000;
+  }
+
+  .hi-icon:before {
+    font-family: 'fontawesome';
+    speak: none;
+    font-size: 14px;
+    line-height: 26px;
+    font-style: normal;
+    font-weight: normal;
+    font-variant: normal;
+    text-transform: none;
+    display: block;
+    -webkit-font-smoothing: antialiased;
+  }
+  
+  .intro-content {
+    padding-top: 0;
+    padding-bottom: 0;
+    margin-bottom: 0;
+  }
+
+  .intro-content h1 {
+    font-size: 20pt;
+    line-height: 2;
+    margin: 0;
+  }
+
+  .intro-content p {
+      font-size: 11pt;
+      line-height: 2;
+  }
+
+  #service {
+    height: 100%;
+  }
+
+  #service-header {
+    padding: 5% 5% 0 5%;
+  }
+
+  #service-header h1 {
+    font-size: 20pt;
+    line-height: 1.5;
+  }
+
+  .hi-icon8 {
+    display: inline-block;
+    font-size: 0px;
+    cursor: pointer;
+    width: 76px;
+    height: 76px;
+    border-radius: 50%;
+    text-align: center;
+    position: relative;
+    z-index: 1;
+    color: #000;
+  }
+
+  .hi-icon8:before {
+    font-family: 'fontawesome';
+    speak: none;
+    font-size: 36px;
+    line-height: 76px;
+    font-style: normal;
+    font-weight: normal;
+    font-variant: normal;
+    text-transform: none;
+    display: block;
+    -webkit-font-smoothing: antialiased;
+  }
+
+  .hi-icontop {
+    display: inline-block;
+    font-size: 0px;
+    cursor: pointer;
+    width: 25px;
+    height: 25px;
+    border-radius: 50%;
+    text-align: center;
+    position: relative;
+    z-index: 1;
+    color: #fff;
+  }
+
+  .hi-icontop:before {
+    font-family: 'fontawesome';
+    speak: none;
+    font-size: 14px;
+    line-height: 22px;
+    font-style: normal;
+    font-weight: normal;
+    font-variant: normal;
+    text-transform: none;
+    display: block;
+    -webkit-font-smoothing: antialiased;
+  }
+
+  #service-content {
+      padding: 5% 5% 10% 5%;
+  }
+
+  .contact-header h1{
+    font-size: 18pt;
+    line-height: 1.5;
+  }
+} 
+
+@media screen and (min-width: 600px)
+  and (max-width: 799px){
+  .img-content {
+    height: 750px;
+  }
+
+  #img-header {
+    -webkit-background-size: 145px;
+    background-size: 145px;
+  }
+
+  .hi-icon8 {
+    display: inline-block;
+    font-size: 0px;
+    cursor: pointer;
+    width: 105px;
+    height: 105px;
+    border-radius: 50%;
+    text-align: center;
+    position: relative;
+    z-index: 1;
+    color: #000;
+  }
+
+  .hi-icon8:before {
+    font-family: 'fontawesome';
+    speak: none;
+    font-size: 56px;
+    line-height: 105px;
+    font-style: normal;
+    font-weight: normal;
+    font-variant: normal;
+    text-transform: none;
+    display: block;
+    -webkit-font-smoothing: antialiased;
+  }
+
+  .intro-content h1{
+    font-size: 32pt;
+    line-height: 3;
+  }
+
+  .intro-content p {
+    font-size: 16pt;
+    line-height: 2.5;
+  }
+
+  #service {
+    height: 100%;
+  }
+
+  #service-header h1 {
+    font-size: 28pt;
+    line-height: 2;
+  }
+
+  #service-header p {
+    font-size: 14pt;
+    padding: 0 5% 0 5%;
+  }
+
+    #service-content {
+    font-size: 12pt;
+    padding: 0% 5% 10% 5%;
+  }
+  .service-point p{
+    padding: 0% 5% 0% 5%;
+  }
+
+  .contact-header h1{
+    font-size: 28pt;
+    line-height: 1.5;
+  }
+
+  .contact-header p{
+    font-size: 14pt;
+    line-height: 1.5;
+  }
+}
+
+@media screen and (min-width: 800px) {
+  .img-content {
+    height: 540px;
+  }
+  .intro-content h1{
+    font-size: 32pt;
+    line-height: 2.5;
+  }
+
+  .intro-content p {
+    font-size: 16pt;
+    line-height: 2;
+  }
+
+  #service {
+    height: 100%;
+  }
+
+  .service-item {
+/*    margin: 10% 0 0 0;*/
+  }
+
+   #service-header h1 {
+    font-size: 28pt;
+    line-height: 2;
+    padding: 5% 0 0 0;
+  }
+
+  #service-header p {
+    font-size: 13pt;
+    padding: 0 5% 0 5%;
+  }
+
+    #service-content {
+    font-size: 12pt;
+    padding: 0% 5% 10% 5%;
+  }
+  .service-point p{
+    padding: 0% 5% 0% 5%;
+  }
+}
+
+/*resolusi yang lain*/
+
+/*@media screen and (min-width: 360px)
+  and (max-width: 639px) {
+    .img-content {
+      height: 565px;
+    }
+
+    .intro-content h1 {
+      font-size: 24pt;
+      line-height: 2.5;
+    }
+
+    .intro-content p {
+      font-size: 13pt;
+      line-height: 2;
+    }
+
+    #service-header h1 {
+      font-size: 22pt;
+      line-height: 1.5;
+    }
+    
+    .service-item {
+    padding: 0 5% 0 5%;     
+   }
+
+    .hi-icon8 {
+      display: inline-block;
+      font-size: 0px;
+      cursor: pointer;
+      width: 86px;
+      height: 86px;
+      border-radius: 50%;
+      text-align: center;
+      position: relative;
+      z-index: 1;
+      color: #000;
+    }
+
+    .hi-icon8:before {
+      font-family: 'fontawesome';
+      speak: none;
+      font-size: 46px;
+      line-height: 86px;
+      font-style: normal;
+      font-weight: normal;
+      font-variant: normal;
+      text-transform: none;
+      display: block;
+      -webkit-font-smoothing: antialiased;
+    }
+   .contact-header h1{
+      font-size: 22pt;
+      line-height: 1.5;
+    }
+  }
+
+@media screen and (min-width: 640px){
+  
+}
+
+@media screen and (min-width: 360px) and
+ (min-height: 640px)* {
+   .img-content {
+     height: 565px;
+   }
+
+   .intro-content h1 {
+     font-size: 24pt;
+     line-height: 2.5;
+   }
+
+   .intro-content p {
+     font-size: 13pt;
+     line-height: 2;
+   }
+
+   #service-header h1 {
+     font-size: 22pt;
+     line-height: 1.5;
+   }
+   
+   .service-item {
+   padding: 0 5% 0 5%;     
+  }
+
+   .hi-icon8 {
+     display: inline-block;
+     font-size: 0px;
+     cursor: pointer;
+     width: 86px;
+     height: 86px;
+     border-radius: 50%;
+     text-align: center;
+     position: relative;
+     z-index: 1;
+     color: #000;
+   }
+
+   .hi-icon8:before {
+     font-family: 'fontawesome';
+     speak: none;
+     font-size: 46px;
+     line-height: 86px;
+     font-style: normal;
+     font-weight: normal;
+     font-variant: normal;
+     text-transform: none;
+     display: block;
+     -webkit-font-smoothing: antialiased;
+   }
+  .contact-header h1{
+     font-size: 22pt;
+     line-height: 1.5;
+   }
+ }
+
+@media screen and (min-width: 550px) {
+ body {
+ background-color: yellow;
+ }
+}
+@media screen and (min-width: 768px) {
+ body {
+ background-color: orange;
+ }
+}
+@media screen and (min-width: 960px) {
+ .img-content {
+   height: 510px;
+ }
+ #img-header {
+   position: relative;
+   background: url('../img/logo_main.png') no-repeat scroll center center;
+   display: block;
+   height: 320px;
+   top: 50%;
+   transform: translateY(-50%);
+ }
+ .intro-content {
+   padding-top: 0;
+   padding-bottom: 0;
+   margin-bottom: 0;
+ }
+
+ #service-content {
+   padding: 0;
+ }
+
+ #service-header {
+   min-height: 100%;
+   min-height: auto;
+ }
+}  */
+
+@media screen 
+  and (min-device-width: 1200px) 
+  and (max-device-width: 1600px) 
+  and (-webkit-min-device-pixel-ratio: 1) { 
+
+}
