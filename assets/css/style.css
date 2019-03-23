@@ -159,6 +159,11 @@ body {
     height: 30px;
 }
 
+.wrapper__visitweb a {
+    text-decoration: none;
+    color: #000;
+}
+
 .works__client {
     padding-top: 20px;
     padding-bottom: 20px;
@@ -186,11 +191,6 @@ body {
     justify-content: center;
     clear: both;
     padding-top: 3px;
-}
-
-.client__visitweb a{
-    text-decoration: none;
-    color: #000;
 }
 
 .works__result {
@@ -613,120 +613,162 @@ body {
 /* Media Query for Desktop (Screen > 960px) */
 
 @media only screen and (min-width: 959px) {
+
     /* Block Part */
     .header {}
+
     .header-section {
         height: auto;
     }
+
     #header-section__background {
         height: 625px;
     }
+
     .container,
     .works__wrapper,
     .projects__wrapper,
     .hire__wrapper {
         width: 960px;
     }
+
     .content {}
+
     .content-section {}
+
     .content-section__expertise {
         margin: 30px auto;
     }
+
     .content-section__works {}
+
     .content-section__projects {
         margin: 50px auto;
     }
+
     .content-section__hire {
         padding: 80px 15px;
     }
+
     .footer {}
+
     .footer-section {
         padding-top: 50px;
         padding-bottom: 30px;
         background-color: #25282F;
     }
+
     /* Element Part */
     .header__logo {
         padding-top: 20px;
         padding-bottom: 20px;
     }
+
     .header__logo img {
         width: 45px;
         height: auto;
     }
+
     .header__package {
         margin: 140px auto;
     }
+
     .header__label {
         margin-bottom: 50px;
     }
+
     .header__button {
         width: 200px;
         height: 34px;
         line-height: 37px;
     }
+
     .header__learnmore {
         padding-top: 10px;
     }
+
     .header__nextlearn {
         margin: 2px auto;
     }
+
     .section__exp {
         margin: 100px auto 20px auto;
     }
+
     .section__info {
         margin: 10px auto 30px auto;
         line-height: 1.5;
     }
+
     .section__item {
         display: inline-block;
         width: 32.333333%;
         height: auto;
     }
+
     .item__icon {
         font-size: 30pt;
         margin: 10px auto;
     }
+
     .item__label {
         margin: 10px auto;
     }
+
     .item__info {
         margin: 0 20px;
     }
+
     .works__wrapper {
         padding: 70px 0 20px;
     }
+
     .works__self {}
+
     .works__header {
         margin: 20px auto 10px auto;
     }
+
     .works__example {
         margin: 20px auto 30px auto;
     }
+
     .works__list {}
+
     .wrapper__visitweb {
         height: 40px;
         float: left;
         margin: 40px auto;
     }
+
+    .wrapper__visitweb a {
+        text-decoration: none;
+        color: #000;
+    }
+
     .works__client {
         padding-top: 35px;
         padding-bottom: 20px;
         display: flex;
         align-items: flex-start;
     }
+
     .client__wrapper {
         width: 50%;
     }
+
     .client__header {}
+
     .client__area {
         margin: 5px auto;
         line-height: 1.25;
     }
+
     .client__info {
         text-align: left;
         line-height: 1.5;
     }
+
     .client__visitweb {
         margin: 0 auto;
         display: flex;
@@ -737,74 +779,94 @@ body {
         clear: both;
         padding-top: 3px;
     }
+
     .works__result {
         margin: 0;
         width: 50%;
         padding: 0;
     }
+
     .works__result img {
         height: auto;
     }
+
     .works__comment {
         padding-top: 40px;
         padding-bottom: 40px;
     }
+
     .comment__wrapper {}
+
     .comment__main {
         margin: 10px auto;
         line-height: 1.5;
         width: 60%;
     }
+
     .comment__person {
         display: flex;
         align-items: center;
         justify-content: center;
     }
+
     .person__pict {}
+
     .person__profile {
         text-align: left;
         margin-left: 10px;
     }
+
     .projects__wrapper {
         padding-top: 35px;
     }
+
     .projects__top {
         margin: 15px auto;
         padding-bottom: 10px;
     }
+
     .projects__header {
         margin: 10px auto 10px auto;
     }
+
     .projects__info {
         line-height: 1.5;
     }
+
     .projects__list {
         margin: 30px auto;
     }
+
     .projects__item {
         margin: 0 auto 40px auto;
         width: 32.333333%;
         display: inline-block;
     }
+
     .item__logo img {
         width: 80%;
         height: auto;
         border-radius: 5px;
     }
+
     .item__information {
         line-height: 1.5;
         margin: 20px 20px;
     }
+
     .hire__wrapper {}
+
     .hire__top {
         margin: 20px auto;
         line-height: 1.5;
     }
+
     .hire__info {
         margin: 10px auto 45px auto;
         line-height: 1.5;
         padding: 0 110px;
     }
+
     .hire__button {
         margin: 25px auto;
         display: flex;
@@ -815,20 +877,25 @@ body {
         clear: both;
         padding-top: 5px;
     }
+
     .footer__made {
         margin-top: 50px;
         margin-bottom: 30px;
     }
+
     .footer__smlist {
         margin: 10px auto 0px auto;
     }
+
     .smlist__item {
         display: inline-block;
         text-align: center;
         margin: 0 5px;
     }
+
     /* Modifier Part */
     .background--full {}
+
     .label--bold,
     .button--bold,
     .section--bold,
@@ -838,9 +905,11 @@ body {
     .hire--bold {
         font-family: helveticaBLD;
     }
+
     .label--header {
         font-size: 30pt;
     }
+
     .section--header,
     .item--header,
     .self--header,
@@ -849,10 +918,12 @@ body {
     .smlist--header {
         font-size: 20pt;
     }
+
     .item--nine,
     .profile--ten {
         font-size: 10pt;
     }
+
     .section--ten,
     .works--ten,
     .main--ten,
@@ -860,149 +931,186 @@ body {
     .hire--ten {
         font-size: 16pt;
     }
+
     .comment--topborder,
     .result--topborder {
         border-top: 1px solid #C2C2C2;
     }
+
     .pict--circle {
         clip-path: circle(45px at center);
         -webkit-clip-path: circle(45px at center);
         -moz-clip-path: circle(45px at center);
         -o-clip-path: circle(45px at center);
     }
+
     .label--top {
         display: block;
     }
+
     .label--white,
     .button--white,
     .learnmore--white,
     .nextlearn--white {
         color: #fff;
     }
+
     .button--alphabg {
         border-radius: 20px;
         border: 2px #F8DB64 solid;
     }
+
     .button--alphabg:hover {
         background-color: #F8DB64;
         border-color: #000000;
         border-radius: 20px;
         color: #000000;
     }
+
     .learnmore--light,
     .works--light,
     .profile--light {
         font-family: helveticaSTD;
         font-weight: lighter;
     }
+
     .button--xs {
         font-size: 10pt;
     }
+
     .button--mids,
     .visitweb--mids {
         font-size: 8pt;
     }
+
     .learnmore--ms,
     .area--ms,
     .info--ms,
     .made--ms {
         font-size: 10pt;
     }
+
     .nextlearn--ms {
         font-size: 16pt;
     }
+
     .item--normal,
     .info--normal,
     .main--normal,
     .section--normal {
         font-family: helveticaSTD;
     }
+
     .item--overcolor {
         color: #F8DB64;
     }
+
     .profile--gray {
         color: #C2C2C2;
     }
+
     .item--softgray {
         color: #adadad;
     }
+
     .info--grayblck {
         color: #7f7f7f;
     }
+
     .item--lineheight {
         line-height: 2;
     }
+
     .works--softcol {
         color: #64B7FF;
     }
+
     .works--link {
         text-decoration: none;
     }
+
     .works--color {
         background-color: #EEEEEE;
     }
+
     .works--order1 {
         order: 1;
     }
+
     .works--order2 {
         order: 2;
     }
+
     .img-fright {
         float: right;
     }
+
     .img-fleft {
         float: left;
     }
+
     .header--top {
         font-size: 16pt;
     }
+
     .header--left,
     .area--left {
         text-align: left;
         margin-right: 50px;
     }
+
     .visitweb--fleft {
         float: left;
     }
+
     .header--right,
     .area--right {
         text-align: left;
         margin-left: 50px;
     }
+
     .visitweb--fright {
         float: right;
     }
+
     .area--softcol {
         color: rgb(177, 177, 177);
     }
+
     .visitweb--alphacol {
         background-color: rgba(0, 0, 0, 0.0);
         border: 2px #F8DB64 solid;
         border-radius: 20px;
     }
+
     .visitweb--alphacol:hover {
         background-color: #fed700;
         border: 2px #000000 solid;
         border-radius: 20px;
         color: #000000;
     }
+
     .button--alphacol {
         background-color: rgba(0, 0, 0, 0.0);
         border: 2px #000000 solid;
         border-radius: 30px;
     }
+
     .button--alphacol:hover {
         background-color: #000000;
         border: 2px #F8DB64 solid;
         border-radius: 30px;
         color: #F8DB64;
     }
+
     .hire--color {
         background-color: #F8DB64;
     }
+
     .footer--color {
         color: #EEEEEE;
     }
+
     /**
 * Custom CSS
 */
@@ -1013,18 +1121,23 @@ body {
         font-weight: normal;
         font-style: normal
     }
+
     .icon-github:before {
         content: "\f09b"
     }
+
     .icon-instagram:before {
         content: "\f16d"
     }
+
     .icon-codepen:before {
         content: "\f1cb"
     }
+
     .icon-telegram:before {
         content: "\f2c6"
     }
+
     .sm__icon {
         display: inline-block;
         font: normal normal normal 0px FontDewo;
@@ -1041,6 +1154,7 @@ body {
         z-index: 1;
         color: #eeeeee;
     }
+
     .sm__icon:after {
         pointer-events: none;
         position: absolute;
@@ -1052,6 +1166,7 @@ body {
         -moz-box-sizing: content-box;
         box-sizing: content-box;
     }
+
     .sm__icon:before {
         speak: none;
         font-size: 25px;
@@ -1063,12 +1178,14 @@ body {
         display: block;
         -webkit-font-smoothing: antialiased;
     }
+
     .item--effects .sm__icon {
         background: rgba(238, 238, 238, 0.1);
         -webkit-transition: background 0.2s, color 0.2s;
         -moz-transition: background 0.2s, color 0.2s;
         transition: background 0.2s, color 0.2s;
     }
+
     .item--effects .sm__icon:after {
         top: -5px;
         left: -5px;
@@ -1083,10 +1200,12 @@ body {
         transform: scale(.8);
         opacity: 0;
     }
+
     .item--deeps .sm__icon:hover {
         background: rgba(238, 238, 238, 1);
         color: #25282F;
     }
+
     .item--deeps .sm__icon:hover:after {
         -webkit-transform: scale(1);
         -moz-transform: scale(1);
