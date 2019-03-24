@@ -835,12 +835,10 @@ body {
 
     .projects__list {
         margin: 30px auto;
-    }
-
-    .projects__item {
-        margin: 0 auto 40px auto;
-        width: 32.333333%;
-        display: inline-block;
+        display: grid;
+        grid-template-columns: repeat(3, 1fr);
+        grid-auto-rows: minmax(256px, auto);
+        grid-gap: 10px;
     }
 
     .item__logo img {
